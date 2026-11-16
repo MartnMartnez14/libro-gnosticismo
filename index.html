@@ -11,7 +11,7 @@
   <meta property="og:title" content="GNOSTICISMO, la verdad más allá del velo — Lectura Online">
   <meta property="og:description" content="Cosmovisión entre materia y espíritu: Gnosis, Demiurgo, Pléroma, Catarismo, Budismo, Estoicismo y Ciencia Ficción. Primeros 3 capítulos abiertos con publicidad.">
   <meta property="og:image" content="static/img/portada-holo.jpg">
-  <link rel="stylesheet" href="static/css/style.css?v=1">
+  <link rel="stylesheet" href="static/css/style.css?v=2">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -57,19 +57,19 @@
         <a class="button primary" href="https://wrixy.app/book/qj2cnCIX" target="_blank" rel="noopener">Ver en Wrixy ↗</a>
       </div>
     </nav>
+  </header>
 
-    <div class="ad-status-bar" role="region" aria-label="Estado del sistema de publicidad">
-      <div class="ad-status-left">
-        <span id="ad-mode-badge" class="ad-status-pill is-house">Modo Patrocinio Propio (Pre-AdSense)</span>
+  <main class="wrap">
+    <div class="promo-status-bar" role="region" aria-label="Estado del sistema de patrocinio">
+      <div class="promo-status-left">
+        <span id="ad-mode-badge" class="promo-status-pill is-house">Modo Patrocinio Propio (Pre-AdSense)</span>
         <span>Lectura gratuita financiada con anuncios laterales e intercalados · Primeros <strong>3 capítulos completos abiertos</strong> para validar monetización.</span>
       </div>
       <div>
         <button type="button" class="button subtle" id="toggle-ad-preview" aria-pressed="false">Inspeccionar medidas Google AdSense</button>
       </div>
     </div>
-  </header>
 
-  <main class="wrap">
     <!-- HERO DEL LIBRO -->
     <section class="hero-section" aria-labelledby="book-main-title">
       <div class="hero-grid">
@@ -107,18 +107,18 @@
         </div>
       </div>
 
-      <!-- BANNER PUBLICITARIO SUPERIOR (728x90 / Adaptable) -->
-      <div class="leaderboard-wrap" data-ad-position="banner-top" aria-label="Espacio publicitario superior"></div>
+      <!-- BANNER SUPERIOR -->
+      <div class="wide-promo-wrap" data-slot-box="banner-top" aria-label="Espacio destacado superior"></div>
     </section>
 
-    <!-- ESPACIO DE LECTURA EN 3 COLUMNAS CON PUBLICIDAD EN AMBOS COSTADOS -->
-    <section class="reader-workspace" id="lector" aria-label="Lector del libro con publicidad lateral">
-      <!-- COLUMNA IZQUIERDA: ÍNDICE + PUBLICIDAD LATERAL IZQUIERDA -->
-      <aside class="ad-rail ad-rail-left" aria-label="Índice del libro y publicidad lateral izquierda">
+    <!-- ESPACIO DE LECTURA EN 3 COLUMNAS CON PANELES EN AMBOS COSTADOS -->
+    <section class="workspace-grid" id="lector" aria-label="Lector del libro con paneles laterales">
+      <!-- COLUMNA IZQUIERDA: ÍNDICE + PANEL LATERAL IZQUIERDO -->
+      <aside class="side-panel side-panel-left" aria-label="Índice del libro y panel lateral izquierdo">
         <div class="toc-panel">
           <div class="toc-header">
             <h2>Índice de la Obra</h2>
-            <span class="toc-count">3 abiertos · 24 vista previa</span>
+            <span class="toc-count">3 abiertos · 24 resumen</span>
           </div>
           <ul class="toc-list" id="toc-list">
             <li class="toc-item"><a class="toc-btn is-unlocked" href="#preliminares">Preliminares y Glosario</a></li>
@@ -128,8 +128,8 @@
           </ul>
         </div>
 
-        <div data-ad-position="rail-left-top" aria-label="Publicidad lateral izquierda superior"></div>
-        <div data-ad-position="rail-left-bottom" aria-label="Publicidad lateral izquierda inferior"></div>
+        <div data-slot-box="rail-left-top" aria-label="Espacio lateral izquierdo superior"></div>
+        <div data-slot-box="rail-left-bottom" aria-label="Espacio lateral izquierdo inferior"></div>
       </aside>
 
       <!-- COLUMNA CENTRAL: VISOR DE CAPÍTULOS -->
@@ -184,14 +184,14 @@
           </nav>
         </article>
 
-        <!-- BANNER PUBLICITARIO INFERIOR DE LECTURA -->
-        <div class="leaderboard-wrap" data-ad-position="banner-bottom" aria-label="Espacio publicitario inferior de lectura"></div>
+        <!-- BANNER INFERIOR DE LECTURA -->
+        <div class="wide-promo-wrap" data-slot-box="banner-bottom" aria-label="Espacio destacado inferior de lectura"></div>
       </div>
 
-      <!-- COLUMNA DERECHA: PUBLICIDAD LATERAL DERECHA -->
-      <aside class="ad-rail ad-rail-right" aria-label="Publicidad lateral derecha y canales del autor">
-        <div data-ad-position="rail-right-top" aria-label="Publicidad lateral derecha superior"></div>
-        <div data-ad-position="rail-right-bottom" aria-label="Publicidad lateral derecha inferior"></div>
+      <!-- COLUMNA DERECHA: PANEL LATERAL DERECHO -->
+      <aside class="side-panel side-panel-right" aria-label="Panel lateral derecho y canales del autor">
+        <div data-slot-box="rail-right-top" aria-label="Espacio lateral derecho superior"></div>
+        <div data-slot-box="rail-right-bottom" aria-label="Espacio lateral derecho inferior"></div>
       </aside>
     </section>
 
@@ -285,8 +285,8 @@
 
           <div class="step-item">
             <span class="step-num">Paso 2 · Activá tu ID ca-pub</span>
-            <h3>Pegá tu código en <code>ads.js</code> y <code>ads.txt</code></h3>
-            <p>Cuando Google AdSense te asigne tu ID de editor (<code>ca-pub-XXXXXXXXXXXXXXXX</code>), abrí <code>static/js/ads.js</code>, cambiá <code>adsenseEnabled: true</code> y pegá tu <code>clientId</code> junto con el número en el archivo <code>ads.txt</code> de la raíz.</p>
+            <h3>Pegá tu código en <code>sponsors.js</code> y <code>ads.txt</code></h3>
+            <p>Cuando Google AdSense te asigne tu ID de editor (<code>ca-pub-XXXXXXXXXXXXXXXX</code>), abrí <code>static/js/sponsors.js</code>, cambiá <code>adsenseEnabled: true</code> y pegá tu <code>clientId</code> junto con el número en el archivo <code>ads.txt</code> de la raíz.</p>
           </div>
 
           <div class="step-item">
@@ -334,8 +334,8 @@
     </div>
   </footer>
 
-  <script src="static/data/book-data.js?v=1"></script>
-  <script src="static/js/ads.js?v=1"></script>
-  <script src="static/js/reader.js?v=1"></script>
+  <script src="static/data/book-data.js?v=2"></script>
+  <script src="static/js/sponsors.js?v=2"></script>
+  <script src="static/js/reader.js?v=2"></script>
 </body>
 </html>

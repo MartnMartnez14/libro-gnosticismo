@@ -221,7 +221,7 @@
             bodyHtml += '<p class="chapter-bullet">• ' + b.html + "</p>";
           } else if (b.type === "ad_slot") {
             bodyHtml +=
-              '<div class="in-article-ad-wrapper" data-ad-position="in-article" aria-label="Publicidad intercalada"></div>';
+              '<div class="in-article-promo-wrapper" data-slot-box="in-article" aria-label="Espacio destacado intercalado"></div>';
           }
         }
 
@@ -321,7 +321,7 @@
           "</div>" +
           '<p class="unlock-fine">Contacto directo: <strong>+598 92 663 680</strong> · <strong>mmartinez23bio@hotmail.com</strong> · También enviado a Amazon Kindle (KDP · USD 4,99).</p>' +
           "</div>" +
-          '<div class="in-article-ad-wrapper" data-ad-position="in-article" aria-label="Publicidad en vista previa"></div>';
+          '<div class="in-article-promo-wrapper" data-slot-box="in-article" aria-label="Espacio destacado en vista previa"></div>';
       }
 
       container.innerHTML = bodyHtml;

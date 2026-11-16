@@ -56,17 +56,18 @@ class TestGnosticBookAdSite(unittest.TestCase):
         self.assertEqual(glossary[26]["number"], "27")
 
     def test_03_side_ad_rails_and_banners_in_html(self) -> None:
-        """Verifica que estén presentes los carriles publicitarios laterales (izquierdo y derecho) y banners."""
+        """Verifica que estén presentes los carriles laterales (izquierdo y derecho) y banners con grid-column explícito."""
         expected_positions = [
-            'data-ad-position="banner-top"',
-            'data-ad-position="rail-left-top"',
-            'data-ad-position="rail-left-bottom"',
-            'data-ad-position="rail-right-top"',
-            'data-ad-position="rail-right-bottom"',
-            'data-ad-position="banner-bottom"',
+            'data-slot-box="banner-top"',
+            'data-slot-box="rail-left-top"',
+            'data-slot-box="rail-left-bottom"',
+            'data-slot-box="rail-right-top"',
+            'data-slot-box="rail-right-bottom"',
+            'data-slot-box="banner-bottom"',
         ]
         for pos in expected_positions:
-            self.assertIn(pos, self.index_html, f"Falta posición publicitaria {pos}")
+            self.assertIn(pos, self.index_html, f"Falta posición {pos}")
+        self.assertIn("grid-column: 2;", self.css)
 
     def test_04_ads_txt_and_adsense_integration_ready(self) -> None:
         self.assertIn("google.com, pub-", self.ads_txt)
