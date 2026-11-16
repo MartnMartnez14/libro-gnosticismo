@@ -1,6 +1,8 @@
 # GNOSTICISMO, la verdad más allá del velo — Portal Web con Publicidad
 
-Portal web estático, moderno y dinámico para leer **_GNOSTICISMO, la verdad más allá del velo_** (de **Martín Martínez García · Bluffer**, 2026), diseñado específicamente para **GitHub Pages** con **monetización mediante anuncios en los costados e intercalados (Google AdSense + Patrocinio Propio)**.
+**[📖 Abrir el portal público en GitHub Pages: https://martnmartnez14.github.io/libro-gnosticismo/](https://martnmartnez14.github.io/libro-gnosticismo/)**
+
+Portal web estático, moderno y dinámico para leer **_GNOSTICISMO, la verdad más allá del velo_** (de **Martín Martínez García · Bluffer**, 2026), diseñado específicamente para **GitHub Pages** con **monetización mediante anuncios en los costados e intercalados (Google AdSense + Patrocinio Propio)** y opción de **compra directa del pack PDF + eBook completo por USD 4,99 (único pago)**.
 
 ---
 
