@@ -1,0 +1,3 @@
+# Archivo de autorización de vendedores digitales (IAB Tech Lab / Google AdSense)
+# Cuando tengas tu ID de editor aprobado en Google AdSense, reemplazá pub-0000000000000000 por tu número real:
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0

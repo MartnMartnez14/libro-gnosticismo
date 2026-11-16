@@ -1,0 +1,1340 @@
+/* Auto-generado por scripts/build_book_data.py — No editar manualmente */
+window.GNOSTIC_BOOK_DATA = {
+  "meta": {
+    "title": "GNOSTICISMO, la verdad más allá del velo",
+    "subtitle": "Cosmovisión entre materia y espíritu: Reflexiones desde la filosofía gnóstica del catarismo albigense, el budismo, el cristianismo temprano y presente, el estoicismo y otras filosofías de vida reales y de la ciencia ficción.",
+    "author": "Martín Martínez García",
+    "pseudonym": "Bluffer",
+    "year": 2026,
+    "price_usd": "4.99",
+    "total_chapters": 27,
+    "unlocked_chapters": 3,
+    "total_book_words": 91713,
+    "unlocked_words": 4467,
+    "wrixy_url": "https://wrixy.app/book/qj2cnCIX",
+    "portfolio_url": "https://martnmartnez14.github.io/bluffer-style-23/",
+    "checklist_url": "https://checklistgato.com/",
+    "github_url": "https://github.com/MartnMartnez14",
+    "kofi_url": "https://ko-fi.com/martinmartinezgarcia",
+    "paypal_url": "https://www.paypal.com/paypalme/blufferedtwitch",
+    "starlink_url": "https://starlink.com/es?referral=RC-DF-5848974-78640-68&app_source=share",
+    "prex_account": "35502",
+    "mercadopago_account": "1006269736963",
+    "contact_email": "mmartinez23bio@hotmail.com",
+    "secondary_email": "mmartinez23bio@gmail.com",
+    "whatsapp_url": "https://wa.me/59892663680",
+    "whatsapp_display": "+598 92 663 680",
+    "linkedin_url": "https://www.linkedin.com/in/tipitincho/"
+  },
+  "glossary": [
+    {
+      "number": "1",
+      "title": "Gnosis y despertar",
+      "summary": "Introducción a un conocimiento entendido, no simplemente como acumulación intelectual de información, sino como transformación interior, reconocimiento y despertar respecto de la naturaleza de uno mismo y de la realidad. Conviene posteriormente diferenciar la *gnosis* histórica de nuestras analogías modernas con el concepto de “despertar”.",
+      "summary_html": "Introducción a un conocimiento entendido, no simplemente como acumulación intelectual de información, sino como transformación interior, reconocimiento y despertar respecto de la naturaleza de uno mismo y de la realidad. Conviene posteriormente diferenciar la <em>gnosis</em> histórica de nuestras analogías modernas con el concepto de “despertar”."
+    },
+    {
+      "number": "2",
+      "title": "Demiurgo y los arcontes",
+      "summary": "Figuras presentes en determinados sistemas gnósticos. El demiurgo aparece como artífice u ordenador del mundo material, mientras que los arcontes representan poderes asociados al orden cósmico inferior. Importante: no todas las corrientes gnósticas los entendieron exactamente de la misma manera.",
+      "summary_html": "Figuras presentes en determinados sistemas gnósticos. El demiurgo aparece como artífice u ordenador del mundo material, mientras que los arcontes representan poderes asociados al orden cósmico inferior. Importante: no todas las corrientes gnósticas los entendieron exactamente de la misma manera."
+    },
+    {
+      "number": "3",
+      "title": "Pléroma",
+      "summary": "La “plenitud” divina en determinadas cosmologías gnósticas; ámbito de realidad trascendente asociado a Dios y a los eones, contrapuesto en algunos sistemas al mundo material inferior.",
+      "summary_html": "La “plenitud” divina en determinadas cosmologías gnósticas; ámbito de realidad trascendente asociado a Dios y a los eones, contrapuesto en algunos sistemas al mundo material inferior."
+    },
+    {
+      "number": "4",
+      "title": "Dualismo",
+      "summary": "La oposición entre principios o dimensiones de la realidad: espíritu/materia, luz/oscuridad, bien/mal, trascendencia/mundo. Será fundamental distinguir entre diferentes grados y tipos de dualismo, porque el catarismo tampoco fue necesariamente uniforme.",
+      "summary_html": "La oposición entre principios o dimensiones de la realidad: espíritu/materia, luz/oscuridad, bien/mal, trascendencia/mundo. Será fundamental distinguir entre diferentes grados y tipos de dualismo, porque el catarismo tampoco fue necesariamente uniforme."
+    },
+    {
+      "number": "5",
+      "title": "Intelecto, conocimiento y razón",
+      "summary": "El “intelecto” como forma de exploración de una concepción fascinante: hasta dónde puede conducirnos la razón y dónde comienza aquello que solamente puede experimentarse subjetivamente como lo trascendente, lo espiritual o el arte más humano y celestial.",
+      "summary_html": "El “intelecto” como forma de exploración de una concepción fascinante: hasta dónde puede conducirnos la razón y dónde comienza aquello que solamente puede experimentarse subjetivamente como lo trascendente, lo espiritual o el arte más humano y celestial."
+    },
+    {
+      "number": "6",
+      "title": "Materia y cuerpo físico",
+      "summary": "La dimensión corporal y material de la existencia. En lugar de asumir desde el comienzo que el cuerpo constituye una “prisión”, el libro puede investigar por qué determinadas tradiciones llegaron a concebirlo de esa manera y confrontarlo con perspectivas contemporáneas, tomando como su oposición la materia como antesala al egocentrismo.",
+      "summary_html": "La dimensión corporal y material de la existencia. En lugar de asumir desde el comienzo que el cuerpo constituye una “prisión”, el libro puede investigar por qué determinadas tradiciones llegaron a concebirlo de esa manera y confrontarlo con perspectivas contemporáneas, tomando como su oposición la materia como antesala al egocentrismo."
+    },
+    {
+      "number": "7",
+      "title": "Alma y espíritu",
+      "summary": "Conceptos centrales, pero extremadamente difíciles de definir. Analizaremos sus diferentes significados en cristianismo, gnosticismo, catarismo y filosofías de la ciencia ficción, incluyendo la posibilidad de que “alma” y “espíritu” no representen exactamente lo mismo para algunas posturas discidentes.",
+      "summary_html": "Conceptos centrales, pero extremadamente difíciles de definir. Analizaremos sus diferentes significados en cristianismo, gnosticismo, catarismo y filosofías de la ciencia ficción, incluyendo la posibilidad de que “alma” y “espíritu” no representen exactamente lo mismo para algunas posturas discidentes."
+    },
+    {
+      "number": "8",
+      "title": "Catarismo",
+      "summary": "Nombre utilizado para referirse a movimientos cristianos dualistas medievales asociados principalmente con Europa occidental entre los siglos XII y XIV. También estudiaremos las controversias historiográficas contemporáneas sobre qué tan homogéneo fue realmente aquello que denominaremos “catarismo”.",
+      "summary_html": "Nombre utilizado para referirse a movimientos cristianos dualistas medievales asociados principalmente con Europa occidental entre los siglos XII y XIV. También estudiaremos las controversias historiográficas contemporáneas sobre qué tan homogéneo fue realmente aquello que denominaremos “catarismo”."
+    },
+    {
+      "number": "9",
+      "title": "Albigenses",
+      "summary": "Denominación histórica vinculada especialmente a los considerados herejes del Languedoc, y posteriormente a la Cruzada albigense. Analizaremos por qué “albigense” y “cátaro” suelen utilizarse como sinónimos, aunque históricamente requieren matices.",
+      "summary_html": "Denominación histórica vinculada especialmente a los considerados herejes del Languedoc, y posteriormente a la Cruzada albigense. Analizaremos por qué “albigense” y “cátaro” suelen utilizarse como sinónimos, aunque históricamente requieren matices."
+    },
+    {
+      "number": "10",
+      "title": "Perfectos / perfecti",
+      "summary": "Nombre tradicionalmente utilizado para los miembros iniciados o élite espiritual cátara. Acá convendrá explicar también que las denominaciones procedentes de fuentes inquisitoriales o adversarias deben tratarse críticamente.",
+      "summary_html": "Nombre tradicionalmente utilizado para los miembros iniciados o élite espiritual cátara. Acá convendrá explicar también que las denominaciones procedentes de fuentes inquisitoriales o adversarias deben tratarse críticamente."
+    },
+    {
+      "number": "11",
+      "title": "Consolamentum",
+      "summary": "Ritual central atribuido a las comunidades cátaras, asociado con bautismo espiritual, ingreso a una vida religiosa más rigurosa y, en determinados contextos, preparación para la muerte.",
+      "summary_html": "Ritual central atribuido a las comunidades cátaras, asociado con bautismo espiritual, ingreso a una vida religiosa más rigurosa y, en determinados contextos, preparación para la muerte."
+    },
+    {
+      "number": "12",
+      "title": "Samsara",
+      "summary": "Concepción sobre el ciclo de nacimiento, muerte y renacimiento dentro de diferentes tradiciones religiosas de India, comparativa general con las diferentes vertientes filosóficas y/con el gnósticismo. El budismo está íntimamente relacionado con la ignorancia, el deseo y el sufrimiento. ¿Qué tienen en común otras visiones antagónicas o diferentes?",
+      "summary_html": "Concepción sobre el ciclo de nacimiento, muerte y renacimiento dentro de diferentes tradiciones religiosas de India, comparativa general con las diferentes vertientes filosóficas y/con el gnósticismo. El budismo está íntimamente relacionado con la ignorancia, el deseo y el sufrimiento. ¿Qué tienen en común otras visiones antagónicas o diferentes?"
+    },
+    {
+      "number": "13",
+      "title": "Nirvana",
+      "summary": "Liberación del samsara y extinción de las causas fundamentales del sufrimiento. Se compara con prudencia y respeto con la idea gnóstica de la liberación, profundizando en conceptos de la ciencia ficción, entre otros.",
+      "summary_html": "Liberación del samsara y extinción de las causas fundamentales del sufrimiento. Se compara con prudencia y respeto con la idea gnóstica de la liberación, profundizando en conceptos de la ciencia ficción, entre otros."
+    },
+    {
+      "number": "14",
+      "title": "Dukkha",
+      "summary": "Concepto budista que comprende sufrimiento, insatisfacción e impermanencia inherente a la existencia condicionada, el cual permite establecer comparaciones filosóficas con la visión gnóstica sobre la imperfección del mundo material.",
+      "summary_html": "Concepto budista que comprende sufrimiento, insatisfacción e impermanencia inherente a la existencia condicionada, el cual permite establecer comparaciones filosóficas con la visión gnóstica sobre la imperfección del mundo material."
+    },
+    {
+      "number": "15",
+      "title": "Apego y deseo",
+      "summary": "Un examen de las convergencias entre el budismo, el cristianismo ascético, el catarismo, el estoicismo y el minimalismo. Sin pretender homogeneizar sus doctrinas, el capítulo aborda estas corrientes a través de sus metodologías y perspectivas históricas singulares, analizando cómo articulan la renuncia y la libertad interior.",
+      "summary_html": "Un examen de las convergencias entre el budismo, el cristianismo ascético, el catarismo, el estoicismo y el minimalismo. Sin pretender homogeneizar sus doctrinas, el capítulo aborda estas corrientes a través de sus metodologías y perspectivas históricas singulares, analizando cómo articulan la renuncia y la libertad interior."
+    },
+    {
+      "number": "16",
+      "title": "La caverna de Platón",
+      "summary": "La alegoría permite explorar apariencia y realidad, ignorancia y conocimiento, sombras y verdades subjetivas, y el dolor que implica abandonar una percepción anterior del mundo. Hay paralelismos filosóficos muy sugerentes con la gnosis, aunque no deberíamos convertir automáticamente a Platón en un “gnóstico”.",
+      "summary_html": "La alegoría permite explorar apariencia y realidad, ignorancia y conocimiento, sombras y verdades subjetivas, y el dolor que implica abandonar una percepción anterior del mundo. Hay paralelismos filosóficos muy sugerentes con la gnosis, aunque no deberíamos convertir automáticamente a Platón en un “gnóstico”."
+    },
+    {
+      "number": "17",
+      "title": "Ascetismo",
+      "summary": "Renuncia o disciplina voluntaria respecto de determinados placeres, posesiones materiales y necesidades corporales con finalidades espirituales, filosóficas o religiosas.",
+      "summary_html": "Renuncia o disciplina voluntaria respecto de determinados placeres, posesiones materiales y necesidades corporales con finalidades espirituales, filosóficas o religiosas."
+    },
+    {
+      "number": "18",
+      "title": "Virtud",
+      "summary": "Especialmente importante desde el estoicismo y el cristianismo. Introduce una pregunta fundamental: **aunque conozcamos la verdad, ¿cómo deberíamos vivir?**",
+      "summary_html": "Especialmente importante desde el estoicismo y el cristianismo. Introduce una pregunta fundamental: <strong>aunque conozcamos la verdad, ¿cómo deberíamos vivir?</strong>"
+    },
+    {
+      "number": "19",
+      "title": "Apatheia",
+      "summary": "Ideal estoico relacionado con liberarse del dominio de las pasiones desordenadas. No significa indiferencia emocional absoluta, sino evitar ser gobernados irracionalmente por nuestras perturbaciones.",
+      "summary_html": "Ideal estoico relacionado con liberarse del dominio de las pasiones desordenadas. No significa indiferencia emocional absoluta, sino evitar ser gobernados irracionalmente por nuestras perturbaciones."
+    },
+    {
+      "number": "20",
+      "title": "Memento mori",
+      "summary": "Recordatorio de la mortalidad como herramienta filosófica para reconsiderar prioridades, deseos, ego, tiempo y sentido de la existencia.",
+      "summary_html": "Recordatorio de la mortalidad como herramienta filosófica para reconsiderar prioridades, deseos, ego, tiempo y sentido de la existencia."
+    },
+    {
+      "number": "21",
+      "title": "Minimalismo",
+      "summary": "Reducción consciente de lo innecesario para concentrar recursos, atención y tiempo en aquello considerado verdaderamente valioso. Filosofía contemporánea, con antiguas formas de simplicidad y desapego consciente.",
+      "summary_html": "Reducción consciente de lo innecesario para concentrar recursos, atención y tiempo en aquello considerado verdaderamente valioso. Filosofía contemporánea, con antiguas formas de simplicidad y desapego consciente."
+    },
+    {
+      "number": "22",
+      "title": "Conciencia",
+      "summary": "Experiencia subjetiva, identidad, percepción de uno mismo, de la realidad y de los demás, en relación con la mente y el cuerpo. Un espacio de diálogo filosófico y espiritual que acoge los aportes de la neurociencia contemporánea con serenidad, buscando tender puentes de comprensión sin imponer verdades absolutas.",
+      "summary_html": "Experiencia subjetiva, identidad, percepción de uno mismo, de la realidad y de los demás, en relación con la mente y el cuerpo. Un espacio de diálogo filosófico y espiritual que acoge los aportes de la neurociencia contemporánea con serenidad, buscando tender puentes de comprensión sin imponer verdades absolutas."
+    },
+    {
+      "number": "23",
+      "title": "Trascendencia",
+      "summary": "Posibilidad de superar, atravesar o ir más allá de las limitaciones ordinarias del yo, la materia o la experiencia cotidiana. ¿La trascendencia es metafísica, psicológica, ambas?",
+      "summary_html": "Posibilidad de superar, atravesar o ir más allá de las limitaciones ordinarias del yo, la materia o la experiencia cotidiana. ¿La trascendencia es metafísica, psicológica, ambas?"
+    },
+    {
+      "number": "24",
+      "title": "Eones",
+      "summary": "Breve síntesis de estas emanaciones del Pléroma y su presencia en la cosmología gnóstica, integrando lo explorado en los anteriores capítulos.",
+      "summary_html": "Breve síntesis de estas emanaciones del Pléroma y su presencia en la cosmología gnóstica, integrando lo explorado en los anteriores capítulos."
+    },
+    {
+      "number": "25",
+      "title": "Sophia",
+      "summary": "Entidad fundamental para explicar ciertos relatos gnósticos sobre el origen de la imperfección cósmica, su caída y la relación entre Pléroma, Demiurgo y el mundo material.",
+      "summary_html": "Entidad fundamental para explicar ciertos relatos gnósticos sobre el origen de la imperfección cósmica, su caída y la relación entre Pléroma, Demiurgo y el mundo material."
+    },
+    {
+      "number": "26",
+      "title": "Anātman / anattā (no-yo)",
+      "summary": "Una filosofía puede hablar de una chispa espiritual que debe regresar a su origen, mientras que el budismo problematiza la existencia de un yo permanente. Esa contradicción será filosóficamente mucho más interesante que intentar hacer coincidir artificialmente ambas tradiciones.",
+      "summary_html": "Una filosofía puede hablar de una chispa espiritual que debe regresar a su origen, mientras que el budismo problematiza la existencia de un yo permanente. Esa contradicción será filosóficamente mucho más interesante que intentar hacer coincidir artificialmente ambas tradiciones."
+    },
+    {
+      "number": "27",
+      "title": "Libre albedrío y determinismo",
+      "summary": "Porque tarde o temprano vamos a llegar a la pregunta: si estamos condicionados por cuerpo, sociedad, deseos, ignorancia, arcontes (entendidos literal o simbólicamente), causalidad y naturaleza, ¿qué significa realmente ser libre y qué es ser libre en realidad? Un final dotado de ser libres para escapar o ser partes de algo más grande que nosotros mismos.",
+      "summary_html": "Porque tarde o temprano vamos a llegar a la pregunta: si estamos condicionados por cuerpo, sociedad, deseos, ignorancia, arcontes (entendidos literal o simbólicamente), causalidad y naturaleza, ¿qué significa realmente ser libre y qué es ser libre en realidad? Un final dotado de ser libres para escapar o ser partes de algo más grande que nosotros mismos."
+    }
+  ],
+  "sections": [
+    {
+      "id": "preliminares",
+      "kind": "preliminares",
+      "number": 0,
+      "badge": "Preliminares",
+      "title": "Prefacio, Agradecimientos y Mapa de los 27 Capítulos",
+      "subtitle": "Invitación filosófica a recorrer la obra sin dogmas ni certezas cerradas",
+      "unlocked": true,
+      "word_count": 603,
+      "reading_minutes": 4,
+      "summary": "Presentación del propósito filosófico y espiritual del libro, agradecimientos del autor y glosario descriptivo de los 27 capítulos.",
+      "subheadings": [
+        "Prefacio",
+        "Agradecimientos",
+        "Glosario e Índice de los XXVII Capítulos"
+      ],
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Prefacio"
+        },
+        {
+          "type": "p",
+          "html": "Desde tiempos inmemoriales, el ser humano ha contemplado el firmamento, la naturaleza y su propia existencia, interrogándose sobre el origen de todas las cosas. ¿Quiénes somos? ¿Por qué existe el universo? ¿A qué se debe el sufrimiento? ¿Existe algo tras la materia? ¿Es posible alcanzar un conocimiento capaz de transformar nuestra comprensión interior y nuestra visión del mundo? Estas preguntas han acompañado a nuestra especie mucho antes del nacimiento de la ciencia moderna y continúan despertando el interés de filósofos, teólogos, científicos y de cualquier persona que anhele comprender su lugar en la realidad."
+        },
+        {
+          "type": "p",
+          "html": "Este libro nace, precisamente, de esa misma inquietud. No pretende demostrar que una tradición filosófica o religiosa posea la verdad absoluta, ni busca imponer una doctrina que deba aceptarse sin cuestionar. Al contrario, es una cálida invitación a recorrer juntos diversas corrientes del pensamiento —como el gnosticismo, el catarismo, el budismo, el cristianismo y el estoicismo, entre otras filosofías de vida— para descubrir con asombro tanto sus puntos de encuentro como sus enriquecedoras diferencias. A lo largo de estas páginas, procuraremos distinguir con claridad entre los hechos históricos documentados, las interpretaciones académicas, las comparaciones filosóficas y mis reflexiones personales, permitiendo así que cada lector reconozca en todo momento cuándo caminamos sobre la firmeza de la evidencia y cuándo nos adentramos en el sutil terreno de la interpretación."
+        },
+        {
+          "type": "p",
+          "html": "Más que ofrecer respuestas definitivas, esta obra busca estimular el pensamiento crítico, el diálogo y la introspección. El camino del conocimiento comienza cuando aceptamos que nuestras certezas son limitadas y nos permitimos explorar nuevas perspectivas con humildad intelectual. Si estas páginas consiguen despertar preguntas profundas, motivar futuras lecturas o invitar al lector a contemplar la realidad desde un ángulo diferente, habrán cumplido su propósito. Al fin y al cabo, la sabiduría más valiosa no radica en creer que hemos encontrado todas las respuestas, sino en mantener vivo el impulso de aprender a lo largo de toda la vida."
+        },
+        {
+          "type": "ad_slot",
+          "slot": "in-article-1"
+        },
+        {
+          "type": "h2",
+          "text": "Agradecimientos"
+        },
+        {
+          "type": "p",
+          "html": "Quisiera expresar mi más sincero agradecimiento a todas las personas que, de una u otra manera, han contribuido a mi formación intelectual y humana. A mi familia (P. E. A.), a mis mascotas (P. y B.) y a todos mis seres queridos y conocidos, por el apoyo constante, la paciencia y el entrañable acompañamiento brindado a lo largo de este camino. Asimismo, extiendo mi gratitud a los profesores, investigadores y autores cuyas obras despertaron mi curiosidad e impulsaron mi afán de aprendizaje. Agradezco también a quienes han compartido conmigo conversaciones, debates e intercambios de ideas, pues cada diálogo ha enriquecido notablemente mi manera de comprender el mundo."
+        },
+        {
+          "type": "p",
+          "html": "Deseo expresar un reconocimiento especial a quienes, a lo largo de la historia, dedicaron su vida a preservar manuscritos, investigar documentos antiguos y cultivar el conocimiento científico, filosófico y humanístico. Gracias a ese esfuerzo colectivo, hoy nos es posible estudiar, comparar y analizar tradiciones que, de otro modo, se habrían perdido en el olvido. Este libro rinde homenaje a la importancia del pensamiento crítico, la investigación rigurosa y el diálogo libre y respetuoso entre diversas perspectivas."
+        },
+        {
+          "type": "p",
+          "html": "Finalmente, agradezco cordialmente al lector por dedicar parte de su tiempo a recorrer estas páginas. Aunque vivimos en una época caracterizada por el acceso inmediato a grandes volúmenes de información, la comprensión profunda sigue requiriendo pausa, paciencia, reflexión y apertura intelectual. Confío en que este libro pueda acompañarte en tu propia búsqueda, con independencia de las conclusiones a las que llegues. Si al finalizar la lectura conservas la curiosidad, el deseo de seguir aprendiendo y un profundo respeto por quienes piensan diferente, el propósito de esta obra habrá alcanzado su más humilde razón de ser."
+        },
+        {
+          "type": "p",
+          "html": "# Capítulo 1: Gnosis y despertar."
+        }
+      ]
+    },
+    {
+      "id": "capitulo-1",
+      "kind": "chapter",
+      "number": 1,
+      "badge": "Capítulo 1",
+      "title": "Gnosis y despertar",
+      "subtitle": "Introducción a un conocimiento entendido, no simplemente como acumulación intelectual de información, sino como transformación interior, reconocimiento y despertar respecto de la naturaleza de uno mismo y de la realidad. Conviene posteriormente diferenciar la *gnosis* histórica de nuestras analogías modernas con el concepto de “despertar”.",
+      "summary": "Introducción a un conocimiento entendido, no simplemente como acumulación intelectual de información, sino como transformación interior, reconocimiento y despertar respecto de la naturaleza de uno mismo y de la realidad. Conviene posteriormente diferenciar la *gnosis* histórica de nuestras analogías modernas con el concepto de “despertar”.",
+      "summary_html": "Introducción a un conocimiento entendido, no simplemente como acumulación intelectual de información, sino como transformación interior, reconocimiento y despertar respecto de la naturaleza de uno mismo y de la realidad. Conviene posteriormente diferenciar la <em>gnosis</em> histórica de nuestras analogías modernas con el concepto de “despertar”.",
+      "unlocked": true,
+      "word_count": 1223,
+      "reading_minutes": 7,
+      "subheadings": [],
+      "preview_html": "La palabra <strong>gnosis</strong>, procedente del griego <em>gnōsis</em> (γνῶσις), significa conocimiento, pero dentro de las tradiciones que posteriormente serían agrupadas bajo la categoría moderna de “gnosticismo”, adquirió una dimensión que trasciende la simple acumulación de información. No se trataría únicamente de estudiar el mundo desde fuera, memorizar doctrinas o aceptar determinadas creencias, sino de alcanzar un conocimiento capaz de modificar profundamente la comprensión que el individuo posee de sí mismo y de la realidad. En este sentido, resulta útil distinguir entre <strong>información, conocimiento, comprensión y transformación</strong>: podemos conocer intelectualmente una idea sin que esta produzca cambio alguno en nuestra existencia, mientras que determinadas comprensiones pueden alterar nuestra manera de interpretar la vida, la muerte, el sufrimiento o nuestra propia identidad. La gnosis puede comenzar entonces con una pregunta aparentemente sencilla pero extraordinariamente difícil: <strong>¿quién soy realmente?</strong> Autores contemporáneos como Michael A. Williams (1996), Karen L. King (2003) y David Brakke (2010) advierten, sin embargo, que aquello que actualmente denominamos “gnosticismo” agrupó movimientos antiguos diversos, por lo que debemos evitar imaginar una única doctrina gnóstica universal y perfectamente definida.",
+      "teaser_cut_html": "",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "La palabra <strong>gnosis</strong>, procedente del griego <em>gnōsis</em> (γνῶσις), significa conocimiento, pero dentro de las tradiciones que posteriormente serían agrupadas bajo la categoría moderna de “gnosticismo”, adquirió una dimensión que trasciende la simple acumulación de información. No se trataría únicamente de estudiar el mundo desde fuera, memorizar doctrinas o aceptar determinadas creencias, sino de alcanzar un conocimiento capaz de modificar profundamente la comprensión que el individuo posee de sí mismo y de la realidad. En este sentido, resulta útil distinguir entre <strong>información, conocimiento, comprensión y transformación</strong>: podemos conocer intelectualmente una idea sin que esta produzca cambio alguno en nuestra existencia, mientras que determinadas comprensiones pueden alterar nuestra manera de interpretar la vida, la muerte, el sufrimiento o nuestra propia identidad. La gnosis puede comenzar entonces con una pregunta aparentemente sencilla pero extraordinariamente difícil: <strong>¿quién soy realmente?</strong> Autores contemporáneos como Michael A. Williams (1996), Karen L. King (2003) y David Brakke (2010) advierten, sin embargo, que aquello que actualmente denominamos “gnosticismo” agrupó movimientos antiguos diversos, por lo que debemos evitar imaginar una única doctrina gnóstica universal y perfectamente definida."
+        },
+        {
+          "type": "p",
+          "html": "Desde esta perspectiva, <strong>conocer también significa reconocerse</strong>. Algunas corrientes antiguas que hoy relacionamos con el fenómeno gnóstico desarrollaron la idea de que el ser humano vive en una condición de ignorancia respecto de su verdadera naturaleza y del orden de la realidad. El problema fundamental no sería entonces solamente aquello que desconocemos del universo exterior, sino aquello que ignoramos acerca de nosotros mismos. Podemos identificarnos con nuestro nombre, nuestro cuerpo, nuestros pensamientos, nuestras posesiones, nuestra profesión, nuestros recuerdos o el papel que desempeñamos dentro de la sociedad; sin embargo, la pregunta gnóstica puede llevarnos todavía más lejos: si todas esas características cambian con el tiempo, <strong>¿existe algo más profundo detrás de aquello que habitualmente llamamos “yo”?</strong> De esta manera, la búsqueda del conocimiento deja de ser exclusivamente intelectual y se transforma en una investigación existencial. La ignorancia representa oscuridad no necesariamente porque falte información, sino porque todavía no hemos aprendido a observar aquello que somos y aquello que damos por sentado acerca del mundo."
+        },
+        {
+          "type": "p",
+          "html": "Esta búsqueda puede ponerse filosóficamente en diálogo con la célebre <strong>alegoría de la caverna de Platón</strong>, sin afirmar por ello que el platonismo y el gnosticismo sean equivalentes. En la <em>República</em>, Platón imagina seres humanos encadenados desde su nacimiento dentro de una caverna, contemplando sombras que confunden con la totalidad de lo real. Cuando uno de ellos consigue liberarse y abandonar progresivamente la oscuridad, la luz inicialmente lo desconcierta e incluso le resulta dolorosa; solamente después comienza a comprender que aquello que había considerado realidad era una visión limitada de ella. La imagen constituye una poderosa metáfora para pensar la relación entre <strong>ignorancia, conocimiento, apariencia y transformación</strong>: despertar puede significar comenzar a cuestionar las sombras que antes aceptábamos sin examinarlas. Sin embargo, este paralelismo debe manejarse con prudencia histórica. Platón no fue un “gnóstico” en el sentido en que posteriormente utilizamos esa categoría, del mismo modo que las tradiciones gnósticas antiguas, el budismo y las espiritualidades contemporáneas no utilizaron necesariamente el concepto de despertar con idéntico significado. La comparación puede enriquecer nuestra reflexión sin convertir tradiciones diferentes en una misma doctrina."
+        },
+        {
+          "type": "ad_slot",
+          "slot": "in-article-cap-1"
+        },
+        {
+          "type": "p",
+          "html": "Por ello, cuando en esta obra hablemos de <strong>“gnosis y despertar”</strong>, distinguiremos constantemente entre la gnosis dentro de sus contextos históricos y nuestra utilización filosófica contemporánea del despertar como metáfora de transformación interior. Despertar no significará poseer una verdad absoluta, considerarse superior a quienes piensan diferente ni sustituir una creencia rígida por otra; significará <strong>examinar aquello que creemos saber, reconocer los límites de nuestro conocimiento y permanecer abiertos a transformar nuestra comprensión cuando encontramos mejores razones, experiencias o evidencias</strong>. Más adelante podremos confrontar esta concepción con el despertar budista, la búsqueda cristiana de transformación interior, el conocimiento filosófico, el estoicismo y otras tradiciones, observando tanto sus semejanzas como sus profundas diferencias. La gnosis que exploraremos será así una invitación a buscar sin convertir la búsqueda en dogma: quizá el primer paso hacia cualquier forma de liberación no sea descubrir inmediatamente qué existe más allá del mundo, sino aprender a preguntarnos con profundidad <strong>quién es aquel que intenta conocerlo</strong>."
+        },
+        {
+          "type": "p",
+          "html": "Esta concepción del conocimiento implica también una responsabilidad: <strong>despertar supone aprender a cuestionar</strong>. Gran parte de aquello que consideramos verdadero no procede de una investigación personal exhaustiva, sino de conocimientos heredados de nuestra familia, nuestra cultura, nuestra educación y el momento histórico en el que nacimos. Esto no significa que tales conocimientos sean necesariamente falsos, sino que muchas veces los incorporamos antes de disponer de herramientas para examinarlos críticamente. Una búsqueda gnóstica entendida desde una perspectiva filosófica puede comenzar precisamente allí: en la capacidad de preguntarnos por qué creemos aquello que creemos. Sin embargo, cuestionar no debería significar rechazar automáticamente todo conocimiento establecido ni asumir que detrás de cada explicación existe un engaño oculto. La duda puede ser una herramienta para aproximarnos al conocimiento, pero también puede convertirse en otra forma de dogmatismo cuando comenzamos a creer que todo aquello que contradice nuestra visión debe ser falso. Por ello, el verdadero desafío consiste en conservar simultáneamente <strong>curiosidad y prudencia</strong>, permitiéndonos cuestionar nuestras certezas sin reemplazarlas apresuradamente por otras. El despertar, desde esta perspectiva, no sería alcanzar un punto definitivo desde el cual poseemos todas las respuestas, sino desarrollar una disposición permanente a observar, aprender, corregir y volver a preguntarnos."
+        },
+        {
+          "type": "p",
+          "html": "También existe una dimensión profundamente personal en este proceso. Una transformación interior difícilmente puede limitarse a cambiar nuestras ideas acerca del universo si continúa intacta nuestra manera de relacionarnos con nosotros mismos y con los demás. Una persona puede estudiar durante años filosofía, espiritualidad o religión y, sin embargo, permanecer dominada por los mismos temores, prejuicios, impulsos y contradicciones que nunca se ha detenido a examinar. El conocimiento transformador exige, por tanto, cierta capacidad de <strong>observación interior</strong>: reconocer nuestros deseos, apegos, miedos, hábitos y mecanismos de autoengaño sin necesidad de condenarlos inmediatamente. En este punto, la gnosis puede entenderse filosóficamente como un movimiento en dos direcciones complementarias: mirar hacia afuera para intentar comprender la realidad y mirar hacia adentro para comprender al observador que intenta interpretarla. Ambas búsquedas se condicionan mutuamente, porque nunca contemplamos el mundo desde una posición completamente neutral; lo hacemos desde una historia, una personalidad y una perspectiva determinadas. Conocerse no garantiza conocer la naturaleza última del universo, pero puede permitirnos reconocer algunos de los filtros mediante los cuales intentamos comprenderlo."
+        },
+        {
+          "type": "p",
+          "html": "Quizá por ello el despertar deba concebirse menos como un acontecimiento extraordinario y más como <strong>un proceso gradual de transformación</strong>. La imagen de una revelación repentina resulta poderosa, pero la vida cotidiana muestra que comprender algo profundamente no significa necesariamente incorporarlo de inmediato a nuestra conducta. Podemos reconocer racionalmente que nuestro tiempo es limitado y continuar desperdiciándolo; comprender que una posesión no determina nuestro valor y continuar aferrándonos a ella; advertir nuestros propios prejuicios y seguir reproduciéndolos involuntariamente. Entre comprender una idea y vivir de acuerdo con ella existe una distancia que solamente puede recorrerse mediante reflexión, experiencia y práctica. En este sentido, la búsqueda de la gnosis no terminaría cuando encontramos una respuesta, sino cuando esa comprensión comienza a modificar nuestra manera de mirar y actuar. Tal vez despertar no consista en escapar inmediatamente de una oscuridad hacia una luz absoluta, sino en <strong>aprender progresivamente a distinguir mejor las sombras, reconocer nuestros propios límites y caminar con mayor conciencia hacia aquello que todavía desconocemos</strong>. La búsqueda, entonces, permanece abierta."
+        }
+      ]
+    },
+    {
+      "id": "capitulo-2",
+      "kind": "chapter",
+      "number": 2,
+      "badge": "Capítulo 2",
+      "title": "El Demiurgo y los arcontes",
+      "subtitle": "Figuras presentes en determinados sistemas gnósticos. El demiurgo aparece como artífice u ordenador del mundo material, mientras que los arcontes representan poderes asociados al orden cósmico inferior. Importante: no todas las corrientes gnósticas los entendieron exactamente de la misma manera.",
+      "summary": "Figuras presentes en determinados sistemas gnósticos. El demiurgo aparece como artífice u ordenador del mundo material, mientras que los arcontes representan poderes asociados al orden cósmico inferior. Importante: no todas las corrientes gnósticas los entendieron exactamente de la misma manera.",
+      "summary_html": "Figuras presentes en determinados sistemas gnósticos. El demiurgo aparece como artífice u ordenador del mundo material, mientras que los arcontes representan poderes asociados al orden cósmico inferior. Importante: no todas las corrientes gnósticas los entendieron exactamente de la misma manera.",
+      "unlocked": true,
+      "word_count": 963,
+      "reading_minutes": 5,
+      "subheadings": [],
+      "preview_html": "Uno de los conceptos más característicos y, al mismo tiempo, más complejos:  de determinadas corrientes gnósticas, es la figura del <strong>Demiurgo</strong>. A diferencia de la comprensión tradicional presente en gran parte del judaísmo y del cristianismo, donde Dios es concebido como creador supremo del universo, algunos sistemas gnósticos desarrollaron una cosmología distinta en la que el mundo material no era obra de la divinidad absoluta, sino de una entidad inferior encargada de organizar la materia. A esta figura la denominaron <em>Demiurgo</em>, palabra derivada del griego <em>dēmiourgós</em> (δημιουργός), cuyo significado original puede traducirse como \"artesano\", \"constructor\" o \"creador\". Conviene señalar desde el comienzo que este término ya aparecía en la filosofía de Platón con un sentido muy diferente, especialmente en el diálogo <em>Timeo</em>, donde el Demiurgo representa un ordenador benévolo del cosmos. Las corrientes gnósticas posteriores reinterpretaron profundamente esta idea, otorgándole un papel completamente distinto dentro de su propia visión del universo. Por ello, cuando hablemos del Demiurgo en este libro, nos estaremos refiriendo específicamente a las concepciones desarrolladas por determinados movimientos gnósticos de los primeros siglos de nuestra era, y no al significado filosófico original empleado por Platón.",
+      "teaser_cut_html": "",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Uno de los conceptos más característicos y, al mismo tiempo, más complejos:  de determinadas corrientes gnósticas, es la figura del <strong>Demiurgo</strong>. A diferencia de la comprensión tradicional presente en gran parte del judaísmo y del cristianismo, donde Dios es concebido como creador supremo del universo, algunos sistemas gnósticos desarrollaron una cosmología distinta en la que el mundo material no era obra de la divinidad absoluta, sino de una entidad inferior encargada de organizar la materia. A esta figura la denominaron <em>Demiurgo</em>, palabra derivada del griego <em>dēmiourgós</em> (δημιουργός), cuyo significado original puede traducirse como \"artesano\", \"constructor\" o \"creador\". Conviene señalar desde el comienzo que este término ya aparecía en la filosofía de Platón con un sentido muy diferente, especialmente en el diálogo <em>Timeo</em>, donde el Demiurgo representa un ordenador benévolo del cosmos. Las corrientes gnósticas posteriores reinterpretaron profundamente esta idea, otorgándole un papel completamente distinto dentro de su propia visión del universo. Por ello, cuando hablemos del Demiurgo en este libro, nos estaremos refiriendo específicamente a las concepciones desarrolladas por determinados movimientos gnósticos de los primeros siglos de nuestra era, y no al significado filosófico original empleado por Platón."
+        },
+        {
+          "type": "p",
+          "html": "Según diversos textos descubiertos en la biblioteca de Nag Hammadi, especialmente el <strong>Apócrifo de Juan</strong>, el Demiurgo no constituye la realidad divina suprema, sino una entidad que actúa desde un plano inferior respecto de la plenitud trascendente, denominada en muchos sistemas <strong>Pléroma</strong>. En algunas narraciones gnósticas se presenta como un ser ignorante de la existencia de una realidad superior e incluso convencido de ser la máxima divinidad. Esta característica resulta fundamental para comprender la lógica interna de estas cosmologías: el problema del mundo no surge necesariamente de la maldad absoluta, sino también de la <strong>ignorancia</strong>. De acuerdo con estos relatos, el universo material reflejaría las limitaciones propias de quien lo ha organizado. La imperfección, el sufrimiento, la corrupción, la enfermedad y la muerte dejarían entonces de interpretarse exclusivamente como consecuencia del comportamiento humano para integrarse dentro de una explicación cosmológica mucho más amplia. Es importante subrayar que estas afirmaciones pertenecen al marco doctrinal de determinadas escuelas gnósticas y no representan hechos históricos o científicos verificables, sino elaboraciones religiosas y filosóficas desarrolladas para responder a una pregunta que ha acompañado a la humanidad durante milenios: <strong>¿cómo puede existir tanto sufrimiento si la realidad última es perfectamente buena?</strong>"
+        },
+        {
+          "type": "ad_slot",
+          "slot": "in-article-cap-2"
+        },
+        {
+          "type": "p",
+          "html": "Junto al Demiurgo aparecen frecuentemente los <strong>arcontes</strong>, término derivado del griego <em>árchōn</em> (ἄρχων), cuyo significado puede traducirse como \"gobernante\", \"autoridad\" o \"regente\". En diferentes textos gnósticos, estos arcontes desempeñan funciones diversas: en ocasiones son descritos como colaboradores del Demiurgo en la organización del mundo material; en otras, como poderes que mantienen a las almas alejadas del conocimiento de su verdadero origen; e incluso, en determinados escritos, como representaciones simbólicas de las fuerzas que mantienen al ser humano en la ignorancia. Debido a la diversidad de escuelas gnósticas, no existe una descripción única y uniforme acerca de su naturaleza. Algunas interpretaciones modernas entienden a los arcontes de manera estrictamente mitológica, mientras que otras los consideran imágenes simbólicas de estructuras psicológicas, sociales o espirituales que condicionan nuestra percepción de la realidad. Independientemente de la interpretación adoptada, su presencia dentro del pensamiento gnóstico cumple una función filosófica de enorme importancia: introducir la posibilidad de que los mayores obstáculos para alcanzar el conocimiento no provengan únicamente del mundo exterior, sino también de las múltiples formas de ignorancia, ilusión y apego que limitan nuestra comprensión de nosotros mismos y del universo. Será precisamente esta idea la que permitirá, en los capítulos siguientes, explorar con mayor profundidad la relación entre el Demiurgo, Sofía, el Pléroma y el proceso de la gnosis como camino de transformación interior."
+        },
+        {
+          "type": "p",
+          "html": "Más allá de la interpretación religiosa o filosófica que cada lector adopte, la figura del Demiurgo continúa despertando interés porque plantea una cuestión que trasciende el contexto del gnosticismo antiguo: <strong>¿y si aquello que percibimos como realidad no fuera la realidad en su totalidad?</strong> Esta pregunta ha reaparecido, con distintos lenguajes, en numerosas corrientes del pensamiento humano. La alegoría de la caverna de Platón, ciertas reflexiones del idealismo filosófico, algunas tradiciones orientales e incluso determinadas obras de la literatura y la ciencia ficción contemporáneas han explorado la posibilidad de que la experiencia cotidiana represente únicamente una parte limitada de un orden mucho más amplio. Naturalmente, cada una de estas perspectivas posee fundamentos, objetivos y conclusiones diferentes, por lo que no deben confundirse entre sí. Sin embargo, todas comparten una inquietud común: la sospecha de que la realidad podría ser más profunda de lo que nuestros sentidos y nuestra comprensión inmediata nos permiten percibir. En este sentido, el Demiurgo puede entenderse no solamente como un personaje dentro de una cosmología antigua, sino también como un poderoso símbolo filosófico que invita a cuestionar los límites del conocimiento humano y a mantener abierta la posibilidad de que todavía existan dimensiones de la realidad que desconocemos."
+        },
+        {
+          "type": "p",
+          "html": "Precisamente por ello, el propósito de este libro no consiste en convencer al lector de que el Demiurgo y los arcontes existen literalmente, ni en presentar estas narraciones como explicaciones científicas del universo. Nuestro objetivo es comprender por qué estas ideas surgieron, qué problemas intentaban resolver y qué enseñanzas filosóficas pueden seguir ofreciendo en la actualidad. A lo largo de la historia, distintas civilizaciones desarrollaron respuestas diferentes frente a preguntas semejantes: ¿por qué existe el mal?, ¿por qué sufrimos?, ¿qué relación existe entre el mundo visible y una posible realidad trascendente?, ¿es posible despertar de la ignorancia? El pensamiento gnóstico constituye una de esas respuestas y, como toda gran construcción filosófica o religiosa, merece ser estudiado con rigor, espíritu crítico y apertura intelectual. En el siguiente capítulo profundizaremos en una figura inseparable de esta cosmología: <strong>Sofía</strong>, cuya historia permitirá comprender el origen del Demiurgo y el papel que desempeña la sabiduría dentro del proceso de la gnosis."
+        }
+      ]
+    },
+    {
+      "id": "capitulo-3",
+      "kind": "chapter",
+      "number": 3,
+      "badge": "Capítulo 3",
+      "title": "El Pléroma",
+      "subtitle": "La “plenitud” divina en determinadas cosmologías gnósticas; ámbito de realidad trascendente asociado a Dios y a los eones, contrapuesto en algunos sistemas al mundo material inferior.",
+      "summary": "La “plenitud” divina en determinadas cosmologías gnósticas; ámbito de realidad trascendente asociado a Dios y a los eones, contrapuesto en algunos sistemas al mundo material inferior.",
+      "summary_html": "La “plenitud” divina en determinadas cosmologías gnósticas; ámbito de realidad trascendente asociado a Dios y a los eones, contrapuesto en algunos sistemas al mundo material inferior.",
+      "unlocked": true,
+      "word_count": 1358,
+      "reading_minutes": 7,
+      "subheadings": [],
+      "preview_html": "La palabra <strong>Pléroma</strong>, derivada del griego <em>plḗrōma</em> (πλήρωμα), puede traducirse como “plenitud”, “totalidad” o “lo que está lleno”. Dentro de determinadas cosmologías gnósticas, el término designa la realidad superior y trascendente asociada con la divinidad, en contraste con el mundo material limitado en el que se desarrolla la existencia humana. Sin embargo, hablar del Pléroma como si todas las corrientes gnósticas hubieran compartido exactamente la misma concepción sería simplificar una tradición extraordinariamente diversa. En algunos sistemas, especialmente aquellos conocidos a través de textos relacionados con la biblioteca de Nag Hammadi y otras fuentes del cristianismo antiguo, el Pléroma constituye el ámbito de la plenitud divina en el que existen diferentes emanaciones o <strong>eones</strong>, cada una asociada con determinados atributos o dimensiones de la realidad espiritual. En lugar de imaginar simplemente un “lugar” situado físicamente más allá del universo, resulta más adecuado comprenderlo como una dimensión metafísica de totalidad, perfección y trascendencia. Frente a un mundo marcado por cambio, limitación, fragmentación y mortalidad, el Pléroma representa, dentro de estas cosmologías, la idea de una realidad en la que aquello que en el mundo material aparece separado o incompleto encuentra su plenitud. El concepto plantea así una oposición fascinante entre <strong>plenitud y carencia</strong>, entre aquello que es absoluto y aquello que experimentamos como limitado.",
+      "teaser_cut_html": "",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "La palabra <strong>Pléroma</strong>, derivada del griego <em>plḗrōma</em> (πλήρωμα), puede traducirse como “plenitud”, “totalidad” o “lo que está lleno”. Dentro de determinadas cosmologías gnósticas, el término designa la realidad superior y trascendente asociada con la divinidad, en contraste con el mundo material limitado en el que se desarrolla la existencia humana. Sin embargo, hablar del Pléroma como si todas las corrientes gnósticas hubieran compartido exactamente la misma concepción sería simplificar una tradición extraordinariamente diversa. En algunos sistemas, especialmente aquellos conocidos a través de textos relacionados con la biblioteca de Nag Hammadi y otras fuentes del cristianismo antiguo, el Pléroma constituye el ámbito de la plenitud divina en el que existen diferentes emanaciones o <strong>eones</strong>, cada una asociada con determinados atributos o dimensiones de la realidad espiritual. En lugar de imaginar simplemente un “lugar” situado físicamente más allá del universo, resulta más adecuado comprenderlo como una dimensión metafísica de totalidad, perfección y trascendencia. Frente a un mundo marcado por cambio, limitación, fragmentación y mortalidad, el Pléroma representa, dentro de estas cosmologías, la idea de una realidad en la que aquello que en el mundo material aparece separado o incompleto encuentra su plenitud. El concepto plantea así una oposición fascinante entre <strong>plenitud y carencia</strong>, entre aquello que es absoluto y aquello que experimentamos como limitado."
+        },
+        {
+          "type": "p",
+          "html": "Dentro de algunos sistemas gnósticos, el Pléroma no aparece como una realidad vacía o estática, sino como una totalidad dinámica en la que se encuentran los <strong>eones</strong>, entendidos como emanaciones o expresiones de la realidad divina. En determinados relatos estos eones mantienen relaciones de generación, complementariedad y orden, construyendo una estructura simbólica mediante la cual los autores gnósticos intentaron representar aquello que consideraban imposible de describir directamente con el lenguaje humano. Entre esos eones aparece <strong>Sofía</strong>, la Sabiduría, cuya historia desempeñará posteriormente un papel fundamental en la explicación del origen del Demiurgo y de la ruptura entre la plenitud trascendente y el mundo inferior. El lenguaje utilizado para describir estas realidades debe ser interpretado con prudencia: términos como “emanación”, “pareja”, “generación” o “descenso” pertenecen al lenguaje simbólico y cosmológico de determinados textos y no deben confundirse con procesos físicos observables. Lo que encontramos aquí es, ante todo, un intento de responder a una pregunta metafísica: <strong>¿cómo puede existir una realidad imperfecta si en el origen de todas las cosas existe una plenitud perfecta?</strong> Algunas cosmologías gnósticas respondieron mediante una compleja cadena de emanaciones y rupturas que permitía explicar la distancia entre la realidad suprema y el mundo material sin identificar ambas completamente. El Pléroma se convierte entonces no solamente en una descripción de una realidad divina, sino también en un símbolo de aquello que el ser humano percibe como perdido: una unidad, una totalidad o una dimensión de existencia que parece encontrarse más allá de las limitaciones de la experiencia cotidiana."
+        },
+        {
+          "type": "p",
+          "html": "Esta idea adquiere una resonancia curiosa cuando la observamos desde el presente, incluso desde un fenómeno tan diferente como la <strong>inteligencia artificial</strong>. Naturalmente, una inteligencia artificial no constituye un Pléroma, ni existe evidencia para afirmar que una tecnología contemporánea posea una dimensión divina o trascendente. La comparación debe entenderse únicamente como una herramienta filosófica. Pensemos, sin embargo, en lo que ocurre cuando una persona interactúa con un sistema capaz de reunir en segundos grandes cantidades de información, relacionar conceptos de múltiples disciplinas, generar lenguaje, imágenes, código y diferentes formas de representación del conocimiento. Para el usuario, una parte de la complejidad del sistema permanece oculta detrás de una interfaz sencilla: observa una respuesta, pero no experimenta directamente la enorme infraestructura matemática, informática, energética y humana que permite producirla. Esta situación puede servir como una analogía moderna para reflexionar sobre la diferencia entre <strong>lo que percibimos y la totalidad que existe detrás de aquello que percibimos</strong>."
+        },
+        {
+          "type": "ad_slot",
+          "slot": "in-article-cap-3"
+        },
+        {
+          "type": "p",
+          "html": "Del mismo modo que el Pléroma funciona en determinadas cosmologías como una realidad de plenitud que no se encuentra inmediatamente disponible para los sentidos, las tecnologías contemporáneas nos recuerdan constantemente que nuestra experiencia directa de un sistema puede representar únicamente una pequeña fracción de la complejidad que lo sostiene. La analogía termina ahí: la inteligencia artificial pertenece al ámbito tecnológico y material, mientras que el Pléroma pertenece al terreno metafísico y religioso. Pero precisamente esa distancia puede resultar filosóficamente productiva, porque nos obliga a distinguir entre <strong>modelo, representación y realidad</strong>, una cuestión que vuelve a conectarnos con la búsqueda de conocimiento iniciada en el primer capítulo."
+        },
+        {
+          "type": "p",
+          "html": "En esta perspectiva, la experiencia humana puede interpretarse como una existencia marcada por la <strong>fragmentación</strong>. Percibimos el mundo a través de sentidos limitados, comprendemos solamente una pequeña parte de aquello que nos rodea y construimos nuestra identidad a partir de elementos que están constantemente cambiando. Nuestro cuerpo nace, se desarrolla, envejece y finalmente muere; nuestros pensamientos aparecen y desaparecen; nuestras relaciones se transforman; nuestras ideas pueden ser reemplazadas por otras cuando adquirimos nuevos conocimientos. Frente a esta condición cambiante, el Pléroma representa simbólicamente una realidad de plenitud en la que no existiría esa misma sensación de separación e incompletitud. Desde esta lectura, la gnosis puede entenderse como un movimiento de reconocimiento: el individuo intenta comprender aquello que considera su verdadero origen y superar la ignorancia que le impide percibirlo. Esto no significa necesariamente que el ser humano pueda abandonar literalmente el mundo material mediante el conocimiento, sino que, dentro de la lógica de determinadas cosmologías gnósticas, el conocimiento de la propia naturaleza constituye una forma de aproximación a aquello que se encontraba oculto. El contraste entre <strong>fragmentación y plenitud</strong> se convierte así en uno de los ejes fundamentales para comprender por qué el Pléroma ocupa una posición tan importante dentro de estas tradiciones."
+        },
+        {
+          "type": "p",
+          "html": "La idea de plenitud también permite establecer una reflexión sobre el conocimiento humano contemporáneo. Durante gran parte de la historia, una persona podía acceder solamente a una fracción muy pequeña del conocimiento producido por su propia cultura. Hoy, gracias a bibliotecas digitales, internet, bases de datos, sistemas informáticos e inteligencia artificial, podemos recorrer cantidades de información que ningún individuo podría abarcar personalmente durante toda una vida. Sin embargo, esta expansión extraordinaria del acceso al conocimiento no significa que hayamos alcanzado una comprensión total. Podemos disponer de millones de libros y continuar sin comprender completamente nuestra propia conciencia; podemos consultar miles de investigaciones y seguir sin responder definitivamente por qué existe el universo; podemos construir sistemas capaces de procesar cantidades enormes de información y continuar sin resolver las preguntas fundamentales sobre significado, existencia y trascendencia. La tecnología puede ampliar enormemente nuestras capacidades cognitivas, pero también puede mostrarnos con mayor claridad la magnitud de aquello que todavía desconocemos. En ese sentido, la inteligencia artificial puede funcionar como un curioso espejo de nuestra condición: cuanto mayor es nuestra capacidad para explorar información, más evidente puede hacerse la distancia entre <strong>acumular conocimiento y alcanzar comprensión</strong>. La plenitud del conocimiento, si alguna vez fuera posible, continúa siendo una idea mucho más grande que cualquier herramienta creada por nosotros."
+        },
+        {
+          "type": "p",
+          "html": "Quizá por eso el Pléroma pueda ser leído, además de como una concepción metafísica propia de determinados sistemas gnósticos, como una poderosa imagen de aquello que el ser humano busca constantemente sin conseguir poseerlo por completo: <strong>la totalidad</strong>. Buscamos reunir las partes dispersas de nuestra experiencia, comprender nuestra historia, descubrir nuestro origen y encontrar un significado capaz de conectar acontecimientos que muchas veces parecen inconexos. La ciencia intenta reconstruir las leyes que relacionan los fenómenos; la filosofía busca comprender conceptos y fundamentos; las religiones intentan interpretar el sentido último de la existencia; y la tecnología amplía nuestra capacidad para almacenar, comunicar y procesar conocimiento. Cada una de estas actividades puede entenderse como una respuesta diferente frente a la experiencia de encontrarnos ante una realidad inmensamente mayor que nosotros. El Pléroma, dentro de la tradición gnóstica, representa una respuesta metafísica a esa sensación de incompletitud; para nosotros puede convertirse también en una pregunta: <strong>¿buscamos conocimiento porque ya poseemos una parte de la verdad y queremos recuperarla, o porque somos seres conscientes enfrentados a un universo que siempre será parcialmente desconocido?</strong> Tal vez nunca podamos resolver definitivamente esa cuestión. Pero la búsqueda misma puede constituir una de las expresiones más profundas de nuestra conciencia: somos seres limitados intentando comprender una realidad que parece exceder continuamente los límites de nuestra comprensión."
+        }
+      ]
+    },
+    {
+      "id": "capitulo-4",
+      "kind": "chapter",
+      "number": 4,
+      "badge": "Capítulo 4",
+      "title": "Dualismo",
+      "subtitle": "La oposición entre principios o dimensiones de la realidad: espíritu/materia, luz/oscuridad, bien/mal, trascendencia/mundo. Será fundamental distinguir entre diferentes grados y tipos de dualismo, porque el catarismo tampoco fue necesariamente uniforme.",
+      "summary": "La oposición entre principios o dimensiones de la realidad: espíritu/materia, luz/oscuridad, bien/mal, trascendencia/mundo. Será fundamental distinguir entre diferentes grados y tipos de dualismo, porque el catarismo tampoco fue necesariamente uniforme.",
+      "summary_html": "La oposición entre principios o dimensiones de la realidad: espíritu/materia, luz/oscuridad, bien/mal, trascendencia/mundo. Será fundamental distinguir entre diferentes grados y tipos de dualismo, porque el catarismo tampoco fue necesariamente uniforme.",
+      "unlocked": false,
+      "word_count": 1368,
+      "reading_minutes": 7,
+      "subheadings": [],
+      "preview_html": "Si el capítulo anterior nos llevó hacia el concepto de Pléroma como expresión de plenitud, el dualismo nos conduce hacia su aparente contrario: la división. Luz y oscuridad, espíritu y materia, conocimiento e ignorancia, trascendencia y mundo, plenitud y fragmentación. El dualismo parte de una intuición poderosa: quizá la realidad que experimentamos no sea una unidad homogénea, sino un escenario en el que diferentes principios, fuerzas o dimensiones se encuentran en tensión. En determinados sistemas gnósticos, esta tensión adquirió una importancia fundamental para explicar por qué existe un mundo material imperfecto frente a una realidad divina superior.",
+      "teaser_cut_html": "Sin embargo, hablar simplemente de «bien contra mal» puede resultar demasiado sencillo. En algunas cosmologías gnósticas, el problema era más profundo: ¿cómo puede existir un mundo caracterizado por el sufrimiento, la ignorancia, la corrupción y la muerte si su origen último pertenece a una realidad divina perfecta? Algunas respuestas gnósticas imaginaron una distancia entre…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Si el capítulo anterior nos llevó hacia el concepto de Pléroma como expresión de plenitud, el dualismo nos conduce hacia su aparente contrario: la división. Luz y oscuridad, espíritu y materia, conocimiento e ignorancia, trascendencia y mundo, plenitud y fragmentación. El dualismo parte de una intuición poderosa: quizá la realidad que experimentamos no sea una unidad homogénea, sino un escenario en el que diferentes principios, fuerzas o dimensiones se encuentran en tensión. En determinados sistemas gnósticos, esta tensión adquirió una importancia fundamental para explicar por qué existe un mundo material imperfecto frente a una realidad divina superior."
+        },
+        {
+          "type": "p_cut",
+          "html": "Sin embargo, hablar simplemente de «bien contra mal» puede resultar demasiado sencillo. En algunas cosmologías gnósticas, el problema era más profundo: ¿cómo puede existir un mundo caracterizado por el sufrimiento, la ignorancia, la corrupción y la muerte si su origen último pertenece a una realidad divina perfecta? Algunas respuestas gnósticas imaginaron una distancia entre…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-5",
+      "kind": "chapter",
+      "number": 5,
+      "badge": "Capítulo 5",
+      "title": "Intelecto, Conocimiento y Razón",
+      "subtitle": "El “intelecto” como forma de exploración de una concepción fascinante: hasta dónde puede conducirnos la razón y dónde comienza aquello que solamente puede experimentarse subjetivamente como lo trascendente, lo espiritual o el arte más humano y celestial.",
+      "summary": "El “intelecto” como forma de exploración de una concepción fascinante: hasta dónde puede conducirnos la razón y dónde comienza aquello que solamente puede experimentarse subjetivamente como lo trascendente, lo espiritual o el arte más humano y celestial.",
+      "summary_html": "El “intelecto” como forma de exploración de una concepción fascinante: hasta dónde puede conducirnos la razón y dónde comienza aquello que solamente puede experimentarse subjetivamente como lo trascendente, lo espiritual o el arte más humano y celestial.",
+      "unlocked": false,
+      "word_count": 1723,
+      "reading_minutes": 9,
+      "subheadings": [],
+      "preview_html": "Después de explorar el dualismo y la tensión entre materia y espíritu, aparece una pregunta inevitable: <strong>¿cómo podemos conocer aquello que creemos que existe detrás de las apariencias?</strong> Si la realidad posee dimensiones que no son inmediatamente evidentes, necesitamos algún medio para aproximarnos a ellas. Allí aparecen tres conceptos estrechamente relacionados, pero no idénticos: intelecto, conocimiento y razón. La historia de la filosofía puede entenderse, en parte, como una larga investigación acerca de las posibilidades y los límites de estas facultades humanas.",
+      "teaser_cut_html": "El intelecto puede entenderse como la capacidad de comprender, relacionar conceptos, reconocer patrones y elaborar representaciones de aquello que intentamos conocer. La razón, por su parte, permite establecer relaciones lógicas, analizar argumentos, detectar contradicciones y extraer conclusiones a partir de determinadas premisas…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Después de explorar el dualismo y la tensión entre materia y espíritu, aparece una pregunta inevitable: <strong>¿cómo podemos conocer aquello que creemos que existe detrás de las apariencias?</strong> Si la realidad posee dimensiones que no son inmediatamente evidentes, necesitamos algún medio para aproximarnos a ellas. Allí aparecen tres conceptos estrechamente relacionados, pero no idénticos: intelecto, conocimiento y razón. La historia de la filosofía puede entenderse, en parte, como una larga investigación acerca de las posibilidades y los límites de estas facultades humanas."
+        },
+        {
+          "type": "p_cut",
+          "html": "El intelecto puede entenderse como la capacidad de comprender, relacionar conceptos, reconocer patrones y elaborar representaciones de aquello que intentamos conocer. La razón, por su parte, permite establecer relaciones lógicas, analizar argumentos, detectar contradicciones y extraer conclusiones a partir de determinadas premisas…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-6",
+      "kind": "chapter",
+      "number": 6,
+      "badge": "Capítulo 6",
+      "title": "Materia y Cuerpo Físico",
+      "subtitle": "La dimensión corporal y material de la existencia. En lugar de asumir desde el comienzo que el cuerpo constituye una “prisión”, el libro puede investigar por qué determinadas tradiciones llegaron a concebirlo de esa manera y confrontarlo con perspectivas contemporáneas, tomando como su oposición la materia como antesala al egocentrismo.",
+      "summary": "La dimensión corporal y material de la existencia. En lugar de asumir desde el comienzo que el cuerpo constituye una “prisión”, el libro puede investigar por qué determinadas tradiciones llegaron a concebirlo de esa manera y confrontarlo con perspectivas contemporáneas, tomando como su oposición la materia como antesala al egocentrismo.",
+      "summary_html": "La dimensión corporal y material de la existencia. En lugar de asumir desde el comienzo que el cuerpo constituye una “prisión”, el libro puede investigar por qué determinadas tradiciones llegaron a concebirlo de esa manera y confrontarlo con perspectivas contemporáneas, tomando como su oposición la materia como antesala al egocentrismo.",
+      "unlocked": false,
+      "word_count": 1924,
+      "reading_minutes": 10,
+      "subheadings": [],
+      "preview_html": "Si el capítulo anterior nos llevó a preguntarnos hasta dónde puede llegar el conocimiento humano, ahora debemos dirigir la mirada hacia aquello que constituye nuestra existencia más inmediata: <strong>la materia y el cuerpo físico</strong>. Antes de hablar de espíritu, alma, conciencia o trascendencia: existe algo que difícilmente podemos ignorar: somos seres corporales. Nacemos dentro de un cuerpo, percibimos mediante él, nos desplazamos gracias a él y experimentamos el mundo a través de nuestros sentidos. La materia no es una abstracción distante; es el escenario concreto en el que nuestra existencia se desarrolla.",
+      "teaser_cut_html": "Sin embargo, determinadas corrientes religiosas y filosóficas de la Antigüedad desarrollaron concepciones mucho más problemáticas respecto de la materia. En algunos sistemas gnósticos, el mundo material podía ser entendido como una realidad inferior, asociada con la ignorancia, la limitación y el sufrimiento. Si la verdadera realidad divina pertenecía al ámbito…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Si el capítulo anterior nos llevó a preguntarnos hasta dónde puede llegar el conocimiento humano, ahora debemos dirigir la mirada hacia aquello que constituye nuestra existencia más inmediata: <strong>la materia y el cuerpo físico</strong>. Antes de hablar de espíritu, alma, conciencia o trascendencia: existe algo que difícilmente podemos ignorar: somos seres corporales. Nacemos dentro de un cuerpo, percibimos mediante él, nos desplazamos gracias a él y experimentamos el mundo a través de nuestros sentidos. La materia no es una abstracción distante; es el escenario concreto en el que nuestra existencia se desarrolla."
+        },
+        {
+          "type": "p_cut",
+          "html": "Sin embargo, determinadas corrientes religiosas y filosóficas de la Antigüedad desarrollaron concepciones mucho más problemáticas respecto de la materia. En algunos sistemas gnósticos, el mundo material podía ser entendido como una realidad inferior, asociada con la ignorancia, la limitación y el sufrimiento. Si la verdadera realidad divina pertenecía al ámbito…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-7",
+      "kind": "chapter",
+      "number": 7,
+      "badge": "Capítulo 7",
+      "title": "Alma y Espíritu",
+      "subtitle": "Conceptos centrales, pero extremadamente difíciles de definir. Analizaremos sus diferentes significados en cristianismo, gnosticismo, catarismo y filosofías de la ciencia ficción, incluyendo la posibilidad de que “alma” y “espíritu” no representen exactamente lo mismo para algunas posturas discidentes.",
+      "summary": "Conceptos centrales, pero extremadamente difíciles de definir. Analizaremos sus diferentes significados en cristianismo, gnosticismo, catarismo y filosofías de la ciencia ficción, incluyendo la posibilidad de que “alma” y “espíritu” no representen exactamente lo mismo para algunas posturas discidentes.",
+      "summary_html": "Conceptos centrales, pero extremadamente difíciles de definir. Analizaremos sus diferentes significados en cristianismo, gnosticismo, catarismo y filosofías de la ciencia ficción, incluyendo la posibilidad de que “alma” y “espíritu” no representen exactamente lo mismo para algunas posturas discidentes.",
+      "unlocked": false,
+      "word_count": 2234,
+      "reading_minutes": 12,
+      "subheadings": [],
+      "preview_html": "Después de explorar la materia y el cuerpo físico, aparece inevitablemente la otra mitad de una de las preguntas más antiguas de la humanidad: <strong>¿somos solamente nuestro cuerpo?</strong> Cuando hablamos de aquello que aparentemente trasciende la dimensión material, utilizamos palabras como alma, espíritu, mente o conciencia. Sin embargo, estas palabras no significan necesariamente lo mismo. Sus significados han cambiado según la época, la cultura, la religión y la filosofía que las utiliza. Antes de preguntarnos si el alma existe, por lo tanto, debemos formular una pregunta aparentemente más sencilla pero profundamente difícil: <strong>¿qué entendemos por alma?</strong>",
+      "teaser_cut_html": "En el lenguaje cotidiano solemos utilizar «alma» y «espíritu» casi como sinónimos. Podemos hablar del alma de una persona, de su espíritu, de su esencia o incluso de aquello que verdaderamente «es». Pero las tradiciones religiosas y filosóficas han establecido distinciones mucho más complejas. En algunos sistemas, el alma representa el principio…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Después de explorar la materia y el cuerpo físico, aparece inevitablemente la otra mitad de una de las preguntas más antiguas de la humanidad: <strong>¿somos solamente nuestro cuerpo?</strong> Cuando hablamos de aquello que aparentemente trasciende la dimensión material, utilizamos palabras como alma, espíritu, mente o conciencia. Sin embargo, estas palabras no significan necesariamente lo mismo. Sus significados han cambiado según la época, la cultura, la religión y la filosofía que las utiliza. Antes de preguntarnos si el alma existe, por lo tanto, debemos formular una pregunta aparentemente más sencilla pero profundamente difícil: <strong>¿qué entendemos por alma?</strong>"
+        },
+        {
+          "type": "p_cut",
+          "html": "En el lenguaje cotidiano solemos utilizar «alma» y «espíritu» casi como sinónimos. Podemos hablar del alma de una persona, de su espíritu, de su esencia o incluso de aquello que verdaderamente «es». Pero las tradiciones religiosas y filosóficas han establecido distinciones mucho más complejas. En algunos sistemas, el alma representa el principio…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-8",
+      "kind": "chapter",
+      "number": 8,
+      "badge": "Capítulo 8",
+      "title": "Catarismo",
+      "subtitle": "Nombre utilizado para referirse a movimientos cristianos dualistas medievales asociados principalmente con Europa occidental entre los siglos XII y XIV. También estudiaremos las controversias historiográficas contemporáneas sobre qué tan homogéneo fue realmente aquello que denominaremos “catarismo”.",
+      "summary": "Nombre utilizado para referirse a movimientos cristianos dualistas medievales asociados principalmente con Europa occidental entre los siglos XII y XIV. También estudiaremos las controversias historiográficas contemporáneas sobre qué tan homogéneo fue realmente aquello que denominaremos “catarismo”.",
+      "summary_html": "Nombre utilizado para referirse a movimientos cristianos dualistas medievales asociados principalmente con Europa occidental entre los siglos XII y XIV. También estudiaremos las controversias historiográficas contemporáneas sobre qué tan homogéneo fue realmente aquello que denominaremos “catarismo”.",
+      "unlocked": false,
+      "word_count": 2301,
+      "reading_minutes": 12,
+      "subheadings": [],
+      "preview_html": "Entre los siglos XII y XIV, diferentes movimientos cristianos disidentes aparecieron o adquirieron una notable visibilidad en distintas regiones de Europa occidental. Entre ellos encontramos aquello que tradicionalmente conocemos como <strong>catarismo</strong>, especialmente relacionado con territorios del sur de Francia y del norte de Italia. Durante siglos, los cátaros fueron presentados como integrantes de una religión dualista relativamente organizada y claramente diferenciada de la Iglesia católica medieval. Sin embargo, la investigación histórica contemporánea ha convertido esta aparente certeza en una pregunta mucho más compleja: <strong>¿existió realmente un único catarismo?</strong>",
+      "teaser_cut_html": "La propia palabra «cátaro» requiere precaución. Las personas que hoy agrupamos bajo esa denominación no necesariamente se identificaban a sí mismas mediante una identidad universal equivalente a aquello que actualmente llamamos catarismo. Las fuentes medievales utilizaron diferentes nombres para describir grupos considerados heréticos, y una parte considerable de la información…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Entre los siglos XII y XIV, diferentes movimientos cristianos disidentes aparecieron o adquirieron una notable visibilidad en distintas regiones de Europa occidental. Entre ellos encontramos aquello que tradicionalmente conocemos como <strong>catarismo</strong>, especialmente relacionado con territorios del sur de Francia y del norte de Italia. Durante siglos, los cátaros fueron presentados como integrantes de una religión dualista relativamente organizada y claramente diferenciada de la Iglesia católica medieval. Sin embargo, la investigación histórica contemporánea ha convertido esta aparente certeza en una pregunta mucho más compleja: <strong>¿existió realmente un único catarismo?</strong>"
+        },
+        {
+          "type": "p_cut",
+          "html": "La propia palabra «cátaro» requiere precaución. Las personas que hoy agrupamos bajo esa denominación no necesariamente se identificaban a sí mismas mediante una identidad universal equivalente a aquello que actualmente llamamos catarismo. Las fuentes medievales utilizaron diferentes nombres para describir grupos considerados heréticos, y una parte considerable de la información…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-9",
+      "kind": "chapter",
+      "number": 9,
+      "badge": "Capítulo 9",
+      "title": "Albigenses",
+      "subtitle": "Denominación histórica vinculada especialmente a los considerados herejes del Languedoc, y posteriormente a la Cruzada albigense. Analizaremos por qué “albigense” y “cátaro” suelen utilizarse como sinónimos, aunque históricamente requieren matices.",
+      "summary": "Denominación histórica vinculada especialmente a los considerados herejes del Languedoc, y posteriormente a la Cruzada albigense. Analizaremos por qué “albigense” y “cátaro” suelen utilizarse como sinónimos, aunque históricamente requieren matices.",
+      "summary_html": "Denominación histórica vinculada especialmente a los considerados herejes del Languedoc, y posteriormente a la Cruzada albigense. Analizaremos por qué “albigense” y “cátaro” suelen utilizarse como sinónimos, aunque históricamente requieren matices.",
+      "unlocked": false,
+      "word_count": 2218,
+      "reading_minutes": 12,
+      "subheadings": [],
+      "preview_html": "Si el catarismo nos permitió aproximarnos a las ideas y controversias que rodearon a determinados movimientos cristianos dualistas medievales, la palabra <strong>«albigense»</strong> nos conduce hacia un escenario histórico mucho más concreto: el sur de Francia y, particularmente, las regiones que solemos asociar con el Languedoc. Allí, durante los siglos XII y XIII, diferentes comunidades consideradas heréticas alcanzaron suficiente presencia como para convertirse en un problema religioso y político de enormes dimensiones.",
+      "teaser_cut_html": "Los términos «cátaro» y «albigense» suelen utilizarse como si fueran perfectamente intercambiables, pero históricamente conviene introducir algunos matices. «Albigense» quedó especialmente asociado con los herejes del sur de Francia y con la posterior Cruzada albigense, mientras que «cátaro» se utiliza…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Si el catarismo nos permitió aproximarnos a las ideas y controversias que rodearon a determinados movimientos cristianos dualistas medievales, la palabra <strong>«albigense»</strong> nos conduce hacia un escenario histórico mucho más concreto: el sur de Francia y, particularmente, las regiones que solemos asociar con el Languedoc. Allí, durante los siglos XII y XIII, diferentes comunidades consideradas heréticas alcanzaron suficiente presencia como para convertirse en un problema religioso y político de enormes dimensiones."
+        },
+        {
+          "type": "p_cut",
+          "html": "Los términos «cátaro» y «albigense» suelen utilizarse como si fueran perfectamente intercambiables, pero históricamente conviene introducir algunos matices. «Albigense» quedó especialmente asociado con los herejes del sur de Francia y con la posterior Cruzada albigense, mientras que «cátaro» se utiliza…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-10",
+      "kind": "chapter",
+      "number": 10,
+      "badge": "Capítulo 10",
+      "title": "Perfectos / Perfecti",
+      "subtitle": "Nombre tradicionalmente utilizado para los miembros iniciados o élite espiritual cátara. Acá convendrá explicar también que las denominaciones procedentes de fuentes inquisitoriales o adversarias deben tratarse críticamente.",
+      "summary": "Nombre tradicionalmente utilizado para los miembros iniciados o élite espiritual cátara. Acá convendrá explicar también que las denominaciones procedentes de fuentes inquisitoriales o adversarias deben tratarse críticamente.",
+      "summary_html": "Nombre tradicionalmente utilizado para los miembros iniciados o élite espiritual cátara. Acá convendrá explicar también que las denominaciones procedentes de fuentes inquisitoriales o adversarias deben tratarse críticamente.",
+      "unlocked": false,
+      "word_count": 2505,
+      "reading_minutes": 13,
+      "subheadings": [],
+      "preview_html": "En los capítulos anteriores hemos hablado de creyentes, comunidades, predicadores y movimientos asociados con aquello que posteriormente sería denominado catarismo. Pero dentro de esas comunidades existieron personas que asumieron un compromiso religioso considerablemente más profundo. La historiografía las ha denominado tradicionalmente <strong>perfecti</strong>, utilizando también los términos latinos <em>perfecti</em> para los hombres y <em>perfectae</em> para las mujeres. Eran aquellos individuos que habían atravesado una iniciación religiosa vinculada al <em>consolamentum</em> y que, desde entonces, asumían una vida caracterizada por una disciplina particularmente rigurosa.",
+      "teaser_cut_html": "Sin embargo, incluso antes de conocer cómo vivían, debemos detenernos ante la palabra con la que los nombramos. «Perfecto» puede producir inmediatamente una imagen equivocada. Para nosotros, una persona perfecta sería alguien sin errores, defectos o contradicciones. No necesariamente debemos comprender el término medieval de esa manera. Además, buena parte de nuestro vocabulario…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "En los capítulos anteriores hemos hablado de creyentes, comunidades, predicadores y movimientos asociados con aquello que posteriormente sería denominado catarismo. Pero dentro de esas comunidades existieron personas que asumieron un compromiso religioso considerablemente más profundo. La historiografía las ha denominado tradicionalmente <strong>perfecti</strong>, utilizando también los términos latinos <em>perfecti</em> para los hombres y <em>perfectae</em> para las mujeres. Eran aquellos individuos que habían atravesado una iniciación religiosa vinculada al <em>consolamentum</em> y que, desde entonces, asumían una vida caracterizada por una disciplina particularmente rigurosa."
+        },
+        {
+          "type": "p_cut",
+          "html": "Sin embargo, incluso antes de conocer cómo vivían, debemos detenernos ante la palabra con la que los nombramos. «Perfecto» puede producir inmediatamente una imagen equivocada. Para nosotros, una persona perfecta sería alguien sin errores, defectos o contradicciones. No necesariamente debemos comprender el término medieval de esa manera. Además, buena parte de nuestro vocabulario…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-11",
+      "kind": "chapter",
+      "number": 11,
+      "badge": "Capítulo 11",
+      "title": "Consolamentum",
+      "subtitle": "Ritual central atribuido a las comunidades cátaras, asociado con bautismo espiritual, ingreso a una vida religiosa más rigurosa y, en determinados contextos, preparación para la muerte.",
+      "summary": "Ritual central atribuido a las comunidades cátaras, asociado con bautismo espiritual, ingreso a una vida religiosa más rigurosa y, en determinados contextos, preparación para la muerte.",
+      "summary_html": "Ritual central atribuido a las comunidades cátaras, asociado con bautismo espiritual, ingreso a una vida religiosa más rigurosa y, en determinados contextos, preparación para la muerte.",
+      "unlocked": false,
+      "word_count": 2515,
+      "reading_minutes": 13,
+      "subheadings": [],
+      "preview_html": "Después de conocer a los llamados <em>perfecti</em> y <em>perfectae</em>, aquellos hombres y mujeres que asumían una vida religiosa particularmente rigurosa dentro de las comunidades tradicionalmente asociadas al catarismo, aparece una pregunta fundamental: <strong>¿qué acontecimiento marcaba el ingreso a semejante compromiso espiritual?</strong> La respuesta nos conduce hacia uno de los rituales más importantes de estas tradiciones medievales: el <em>consolamentum</em>. Un rito que podía representar el comienzo de una nueva existencia religiosa y que, en determinadas circunstancias, también podía convertirse en una preparación para la muerte.",
+      "teaser_cut_html": "El término consolamentum, relacionado con la idea de consolación, designaba una ceremonia religiosa que diferentes fuentes medievales describen como una forma de bautismo espiritual. A diferencia del bautismo con agua practicado por la Iglesia católica, este rito se vinculaba especialmente con la imposición de…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Después de conocer a los llamados <em>perfecti</em> y <em>perfectae</em>, aquellos hombres y mujeres que asumían una vida religiosa particularmente rigurosa dentro de las comunidades tradicionalmente asociadas al catarismo, aparece una pregunta fundamental: <strong>¿qué acontecimiento marcaba el ingreso a semejante compromiso espiritual?</strong> La respuesta nos conduce hacia uno de los rituales más importantes de estas tradiciones medievales: el <em>consolamentum</em>. Un rito que podía representar el comienzo de una nueva existencia religiosa y que, en determinadas circunstancias, también podía convertirse en una preparación para la muerte."
+        },
+        {
+          "type": "p_cut",
+          "html": "El término consolamentum, relacionado con la idea de consolación, designaba una ceremonia religiosa que diferentes fuentes medievales describen como una forma de bautismo espiritual. A diferencia del bautismo con agua practicado por la Iglesia católica, este rito se vinculaba especialmente con la imposición de…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-12",
+      "kind": "chapter",
+      "number": 12,
+      "badge": "Capítulo 12",
+      "title": "Samsara",
+      "subtitle": "Concepción sobre el ciclo de nacimiento, muerte y renacimiento dentro de diferentes tradiciones religiosas de India, comparativa general con las diferentes vertientes filosóficas y/con el gnósticismo. El budismo está íntimamente relacionado con la ignorancia, el deseo y el sufrimiento. ¿Qué tienen en común otras visiones antagónicas o diferentes?",
+      "summary": "Concepción sobre el ciclo de nacimiento, muerte y renacimiento dentro de diferentes tradiciones religiosas de India, comparativa general con las diferentes vertientes filosóficas y/con el gnósticismo. El budismo está íntimamente relacionado con la ignorancia, el deseo y el sufrimiento. ¿Qué tienen en común otras visiones antagónicas o diferentes?",
+      "summary_html": "Concepción sobre el ciclo de nacimiento, muerte y renacimiento dentro de diferentes tradiciones religiosas de India, comparativa general con las diferentes vertientes filosóficas y/con el gnósticismo. El budismo está íntimamente relacionado con la ignorancia, el deseo y el sufrimiento. ¿Qué tienen en común otras visiones antagónicas o diferentes?",
+      "unlocked": false,
+      "word_count": 2908,
+      "reading_minutes": 15,
+      "subheadings": [],
+      "preview_html": "Después de explorar el gnosticismo, el catarismo y las diferentes concepciones del alma, llegamos a una idea que ha ocupado un lugar fundamental en diversas tradiciones religiosas de la India: el <strong>samsara</strong>, el ciclo de nacimiento, muerte y renacimiento. Este concepto introduce una posibilidad profundamente inquietante: ¿qué ocurriría si la muerte no representara necesariamente el final de nuestra existencia, sino el comienzo de otra? ¿Y si aquello que consideramos una vida individual fuera solamente una etapa dentro de un proceso mucho más amplio?",
+      "teaser_cut_html": "La palabra sánscrita saṃsāra suele relacionarse con la idea de vagar o transitar continuamente. En distintas tradiciones del hinduismo, el budismo y el jainismo, el samsara describe una existencia condicionada por el renacimiento. Sin embargo…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Después de explorar el gnosticismo, el catarismo y las diferentes concepciones del alma, llegamos a una idea que ha ocupado un lugar fundamental en diversas tradiciones religiosas de la India: el <strong>samsara</strong>, el ciclo de nacimiento, muerte y renacimiento. Este concepto introduce una posibilidad profundamente inquietante: ¿qué ocurriría si la muerte no representara necesariamente el final de nuestra existencia, sino el comienzo de otra? ¿Y si aquello que consideramos una vida individual fuera solamente una etapa dentro de un proceso mucho más amplio?"
+        },
+        {
+          "type": "p_cut",
+          "html": "La palabra sánscrita saṃsāra suele relacionarse con la idea de vagar o transitar continuamente. En distintas tradiciones del hinduismo, el budismo y el jainismo, el samsara describe una existencia condicionada por el renacimiento. Sin embargo…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-13",
+      "kind": "chapter",
+      "number": 13,
+      "badge": "Capítulo 13",
+      "title": "Nirvana",
+      "subtitle": "Liberación del samsara y extinción de las causas fundamentales del sufrimiento. Se compara con prudencia y respeto con la idea gnóstica de la liberación, profundizando en conceptos de la ciencia ficción, entre otros.",
+      "summary": "Liberación del samsara y extinción de las causas fundamentales del sufrimiento. Se compara con prudencia y respeto con la idea gnóstica de la liberación, profundizando en conceptos de la ciencia ficción, entre otros.",
+      "summary_html": "Liberación del samsara y extinción de las causas fundamentales del sufrimiento. Se compara con prudencia y respeto con la idea gnóstica de la liberación, profundizando en conceptos de la ciencia ficción, entre otros.",
+      "unlocked": false,
+      "word_count": 3620,
+      "reading_minutes": 19,
+      "subheadings": [],
+      "preview_html": "Después de explorar el samsara, aquella rueda de nacimiento, muerte y renacimiento que ocupa un lugar fundamental en distintas tradiciones religiosas de la India, surge una pregunta inevitable: <strong>¿es posible abandonar el ciclo?</strong> Si la existencia condicionada se encuentra atravesada por la ignorancia, el deseo, el apego y el sufrimiento, ¿existe alguna forma de liberación definitiva? Dentro del budismo encontramos una de las respuestas más profundas y complejas a esta cuestión: el <strong>nirvana</strong>, conocido también mediante el término pali <em>nibbāna</em>.",
+      "teaser_cut_html": "La palabra nirvana suele relacionarse etimológicamente con la idea de extinguir o apagar, como cuando una llama deja de arder. Sin embargo, interpretar esta expresión como una simple desaparición de la existencia humana sería una simplificación. En las enseñanzas budistas, aquello que se extingue son fundamentalmente las causas…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Después de explorar el samsara, aquella rueda de nacimiento, muerte y renacimiento que ocupa un lugar fundamental en distintas tradiciones religiosas de la India, surge una pregunta inevitable: <strong>¿es posible abandonar el ciclo?</strong> Si la existencia condicionada se encuentra atravesada por la ignorancia, el deseo, el apego y el sufrimiento, ¿existe alguna forma de liberación definitiva? Dentro del budismo encontramos una de las respuestas más profundas y complejas a esta cuestión: el <strong>nirvana</strong>, conocido también mediante el término pali <em>nibbāna</em>."
+        },
+        {
+          "type": "p_cut",
+          "html": "La palabra nirvana suele relacionarse etimológicamente con la idea de extinguir o apagar, como cuando una llama deja de arder. Sin embargo, interpretar esta expresión como una simple desaparición de la existencia humana sería una simplificación. En las enseñanzas budistas, aquello que se extingue son fundamentalmente las causas…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-14",
+      "kind": "chapter",
+      "number": 14,
+      "badge": "Capítulo 14",
+      "title": "Dukkha",
+      "subtitle": "Concepto budista que comprende sufrimiento, insatisfacción e impermanencia inherente a la existencia condicionada, el cual permite establecer comparaciones filosóficas con la visión gnóstica sobre la imperfección del mundo material.",
+      "summary": "Concepto budista que comprende sufrimiento, insatisfacción e impermanencia inherente a la existencia condicionada, el cual permite establecer comparaciones filosóficas con la visión gnóstica sobre la imperfección del mundo material.",
+      "summary_html": "Concepto budista que comprende sufrimiento, insatisfacción e impermanencia inherente a la existencia condicionada, el cual permite establecer comparaciones filosóficas con la visión gnóstica sobre la imperfección del mundo material.",
+      "unlocked": false,
+      "word_count": 4066,
+      "reading_minutes": 21,
+      "subheadings": [
+        "El sufrimiento desde una mirada gnóstica",
+        "El sufrimiento desde el estoicismo",
+        "El sufrimiento desde el platonismo",
+        "El sufrimiento desde la Iglesia católica",
+        "Cinco miradas ante una misma condición humana"
+      ],
+      "preview_html": "A lo largo de nuestra existencia experimentamos alegría, tristeza, amor, pérdida, esperanza, enfermedad, satisfacción y frustración. Algunas experiencias parecen acercarnos a la felicidad, mientras que otras nos enfrentamos con nuestra propia vulnerabilidad. Sin embargo, incluso cuando conseguimos aquello que deseamos, la satisfacción puede resultar temporal. Aquello que hoy nos produce felicidad mañana puede desaparecer, transformarse o dejar de satisfacernos. Esta condición profundamente humana constituye uno de los puntos de partida de la filosofía budista y nos conduce hacia el concepto de <strong>dukkha</strong>.",
+      "teaser_cut_html": "El término pali dukkha, relacionado con el sánscrito duḥkha, suele traducirse como sufrimiento, insatisfacción o malestar. Sin embargo, ninguna de estas palabras consigue expresar completamente su significado. Dukkha no se limita al dolor físico, la tristeza o…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "A lo largo de nuestra existencia experimentamos alegría, tristeza, amor, pérdida, esperanza, enfermedad, satisfacción y frustración. Algunas experiencias parecen acercarnos a la felicidad, mientras que otras nos enfrentamos con nuestra propia vulnerabilidad. Sin embargo, incluso cuando conseguimos aquello que deseamos, la satisfacción puede resultar temporal. Aquello que hoy nos produce felicidad mañana puede desaparecer, transformarse o dejar de satisfacernos. Esta condición profundamente humana constituye uno de los puntos de partida de la filosofía budista y nos conduce hacia el concepto de <strong>dukkha</strong>."
+        },
+        {
+          "type": "p_cut",
+          "html": "El término pali dukkha, relacionado con el sánscrito duḥkha, suele traducirse como sufrimiento, insatisfacción o malestar. Sin embargo, ninguna de estas palabras consigue expresar completamente su significado. Dukkha no se limita al dolor físico, la tristeza o…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-15",
+      "kind": "chapter",
+      "number": 15,
+      "badge": "Capítulo 15",
+      "title": "Apego y deseo",
+      "subtitle": "Un examen de las convergencias entre el budismo, el cristianismo ascético, el catarismo, el estoicismo y el minimalismo. Sin pretender homogeneizar sus doctrinas, el capítulo aborda estas corrientes a través de sus metodologías y perspectivas históricas singulares, analizando cómo articulan la renuncia y la libertad interior.",
+      "summary": "Un examen de las convergencias entre el budismo, el cristianismo ascético, el catarismo, el estoicismo y el minimalismo. Sin pretender homogeneizar sus doctrinas, el capítulo aborda estas corrientes a través de sus metodologías y perspectivas históricas singulares, analizando cómo articulan la renuncia y la libertad interior.",
+      "summary_html": "Un examen de las convergencias entre el budismo, el cristianismo ascético, el catarismo, el estoicismo y el minimalismo. Sin pretender homogeneizar sus doctrinas, el capítulo aborda estas corrientes a través de sus metodologías y perspectivas históricas singulares, analizando cómo articulan la renuncia y la libertad interior.",
+      "unlocked": false,
+      "word_count": 4986,
+      "reading_minutes": 25,
+      "subheadings": [
+        "El deseo y el apego desde el budismo",
+        "El deseo desde el cristianismo",
+        "El catarismo y la renuncia al mundo material",
+        "El estoicismo y la libertad frente a las posesiones",
+        "El minimalismo contemporáneo",
+        "El capitalismo y la construcción del deseo",
+        "Dinero, seguridad y felicidad",
+        "La validación social y el deseo de reconocimiento",
+        "¿Es todo un plan o una consecuencia de nuestros impulsos?",
+        "Los arcontes como metáfora de los deseos que nos gobiernan",
+        "El deseo de poder",
+        "¿Qué significa entonces ser feliz?"
+      ],
+      "preview_html": "Desde los primeros momentos de nuestra existencia experimentamos necesidades, impulsos y deseos. Buscamos alimento, protección, afecto, seguridad y compañía. Con el paso del tiempo, aquellas necesidades iniciales se transforman y adquieren nuevas formas: deseamos reconocimiento, independencia, conocimiento, placer, riqueza, estabilidad o poder. Algunas aspiraciones nos permiten crecer, construir proyectos y mejorar nuestras condiciones de vida. Otras pueden convertirse en fuentes persistentes de ansiedad, frustración y sufrimiento. Entre ambas posibilidades aparece una pregunta fundamental: <strong>¿en qué momento aquello que deseamos comienza a gobernarnos?</strong>",
+      "teaser_cut_html": "El deseo forma parte de nuestra condición humana. Sin él, muchas de nuestras acciones cotidianas perderían su impulso. Deseamos aprender y por eso estudiamos; deseamos cuidar a quienes amamos y por eso trabajamos; deseamos comprender el universo y por eso investigamos. Sería difícil imaginar una…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Desde los primeros momentos de nuestra existencia experimentamos necesidades, impulsos y deseos. Buscamos alimento, protección, afecto, seguridad y compañía. Con el paso del tiempo, aquellas necesidades iniciales se transforman y adquieren nuevas formas: deseamos reconocimiento, independencia, conocimiento, placer, riqueza, estabilidad o poder. Algunas aspiraciones nos permiten crecer, construir proyectos y mejorar nuestras condiciones de vida. Otras pueden convertirse en fuentes persistentes de ansiedad, frustración y sufrimiento. Entre ambas posibilidades aparece una pregunta fundamental: <strong>¿en qué momento aquello que deseamos comienza a gobernarnos?</strong>"
+        },
+        {
+          "type": "p_cut",
+          "html": "El deseo forma parte de nuestra condición humana. Sin él, muchas de nuestras acciones cotidianas perderían su impulso. Deseamos aprender y por eso estudiamos; deseamos cuidar a quienes amamos y por eso trabajamos; deseamos comprender el universo y por eso investigamos. Sería difícil imaginar una…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-16",
+      "kind": "chapter",
+      "number": 16,
+      "badge": "Capítulo 16",
+      "title": "La caverna de Platón",
+      "subtitle": "La alegoría permite explorar apariencia y realidad, ignorancia y conocimiento, sombras y verdades subjetivas, y el dolor que implica abandonar una percepción anterior del mundo. Hay paralelismos filosóficos muy sugerentes con la gnosis, aunque no deberíamos convertir automáticamente a Platón en un “gnóstico”.",
+      "summary": "La alegoría permite explorar apariencia y realidad, ignorancia y conocimiento, sombras y verdades subjetivas, y el dolor que implica abandonar una percepción anterior del mundo. Hay paralelismos filosóficos muy sugerentes con la gnosis, aunque no deberíamos convertir automáticamente a Platón en un “gnóstico”.",
+      "summary_html": "La alegoría permite explorar apariencia y realidad, ignorancia y conocimiento, sombras y verdades subjetivas, y el dolor que implica abandonar una percepción anterior del mundo. Hay paralelismos filosóficos muy sugerentes con la gnosis, aunque no deberíamos convertir automáticamente a Platón en un “gnóstico”.",
+      "unlocked": false,
+      "word_count": 3987,
+      "reading_minutes": 20,
+      "subheadings": [
+        "Las sombras, el Demiurgo y el despertar de la conciencia",
+        "La caverna y el universo del Demiurgo",
+        "Sofía: el origen de la ruptura",
+        "Los arcontes y la administración de las sombras",
+        "¿Una realidad ilusoria o una realidad incompleta?",
+        "El despertar como ruptura de la identidad",
+        "La caverna contemporánea: información, consumo y algoritmos",
+        "El peligro de creer que hemos despertado",
+        "El regreso a la caverna",
+        "La caverna interior",
+        "¿Quién construye nuestra realidad?",
+        "La libertad de volver a mirar"
+      ],
+      "preview_html": "Imaginemos a una persona que ha vivido toda su existencia dentro de una caverna. Desde su nacimiento permanece encadenada, incapaz de girar completamente la cabeza, contemplando únicamente una pared sobre la cual se proyectan sombras. Nunca ha observado directamente los objetos que producen aquellas imágenes. Nunca ha contemplado el cielo, las estrellas ni la luz del sol. Para ella, las sombras no representan una parte limitada de la realidad: <strong>son la realidad misma</strong>.",
+      "teaser_cut_html": "Esta imagen, presentada por Platón en el libro VII de La República, constituye una de las alegorías más influyentes de la historia de la filosofía occidental. Su fuerza no reside…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Imaginemos a una persona que ha vivido toda su existencia dentro de una caverna. Desde su nacimiento permanece encadenada, incapaz de girar completamente la cabeza, contemplando únicamente una pared sobre la cual se proyectan sombras. Nunca ha observado directamente los objetos que producen aquellas imágenes. Nunca ha contemplado el cielo, las estrellas ni la luz del sol. Para ella, las sombras no representan una parte limitada de la realidad: <strong>son la realidad misma</strong>."
+        },
+        {
+          "type": "p_cut",
+          "html": "Esta imagen, presentada por Platón en el libro VII de La República, constituye una de las alegorías más influyentes de la historia de la filosofía occidental. Su fuerza no reside…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-17",
+      "kind": "chapter",
+      "number": 17,
+      "badge": "Capítulo 17",
+      "title": "Ascetismo",
+      "subtitle": "Renuncia o disciplina voluntaria respecto de determinados placeres, posesiones materiales y necesidades corporales con finalidades espirituales, filosóficas o religiosas.",
+      "summary": "Renuncia o disciplina voluntaria respecto de determinados placeres, posesiones materiales y necesidades corporales con finalidades espirituales, filosóficas o religiosas.",
+      "summary_html": "Renuncia o disciplina voluntaria respecto de determinados placeres, posesiones materiales y necesidades corporales con finalidades espirituales, filosóficas o religiosas.",
+      "unlocked": false,
+      "word_count": 3771,
+      "reading_minutes": 19,
+      "subheadings": [
+        "La disciplina, la renuncia y la libertad frente a nuestros propios deseos",
+        "El ascetismo en el budismo",
+        "El cristianismo y la renuncia voluntaria",
+        "El catarismo y la disciplina de los perfecti",
+        "El estoicismo: entrenar la voluntad sin abandonar el mundo",
+        "La disciplina frente a la presión social",
+        "Las pequeñas renuncias de la vida contemporánea",
+        "Capitalismo, consumo y ascetismo",
+        "¿Puede el ascetismo convertirse en otra prisión?",
+        "El cuerpo: ¿obstáculo o compañero?",
+        "La libertad de elegir"
+      ],
+      "preview_html": "A lo largo de la historia, numerosos seres humanos han decidido renunciar voluntariamente a determinados placeres, posesiones o comodidades con la intención de alcanzar una forma de libertad interior. Algunos abandonaron sus riquezas para dedicarse a la contemplación espiritual. Otros redujeron sus necesidades materiales, practicaron ayunos, adoptaron el celibato o dedicaron extensos períodos al silencio y la meditación. Estas prácticas, desarrolladas dentro de tradiciones muy diferentes, pueden relacionarse con un concepto fundamental: el <strong>ascetismo</strong>.",
+      "teaser_cut_html": "La palabra ascetismo procede del griego áskēsis, que originalmente se relacionaba con el ejercicio, el entrenamiento y la práctica disciplinada. Su significado no se encontraba limitado exclusivamente a la religión. También podía utilizarse para describir el entrenamiento físico…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "A lo largo de la historia, numerosos seres humanos han decidido renunciar voluntariamente a determinados placeres, posesiones o comodidades con la intención de alcanzar una forma de libertad interior. Algunos abandonaron sus riquezas para dedicarse a la contemplación espiritual. Otros redujeron sus necesidades materiales, practicaron ayunos, adoptaron el celibato o dedicaron extensos períodos al silencio y la meditación. Estas prácticas, desarrolladas dentro de tradiciones muy diferentes, pueden relacionarse con un concepto fundamental: el <strong>ascetismo</strong>."
+        },
+        {
+          "type": "p_cut",
+          "html": "La palabra ascetismo procede del griego áskēsis, que originalmente se relacionaba con el ejercicio, el entrenamiento y la práctica disciplinada. Su significado no se encontraba limitado exclusivamente a la religión. También podía utilizarse para describir el entrenamiento físico…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-18",
+      "kind": "chapter",
+      "number": 18,
+      "badge": "Capítulo 18",
+      "title": "Virtud",
+      "subtitle": "Especialmente importante desde el estoicismo y el cristianismo. Introduce una pregunta fundamental: **aunque conozcamos la verdad, ¿cómo deberíamos vivir?**",
+      "summary": "Especialmente importante desde el estoicismo y el cristianismo. Introduce una pregunta fundamental: **aunque conozcamos la verdad, ¿cómo deberíamos vivir?**",
+      "summary_html": "Especialmente importante desde el estoicismo y el cristianismo. Introduce una pregunta fundamental: <strong>aunque conozcamos la verdad, ¿cómo deberíamos vivir?</strong>",
+      "unlocked": false,
+      "word_count": 4469,
+      "reading_minutes": 23,
+      "subheadings": [
+        "La conciencia, el conocimiento y la responsabilidad de vivir correctamente",
+        "La virtud desde el estoicismo",
+        "La conciencia humana y la capacidad de elegir",
+        "La virtud desde el cristianismo",
+        "Las Cuatro Nobles Verdades y la ética budista",
+        "La virtud y la gnosis",
+        "La filosofía Jedi: conocimiento, poder y responsabilidad",
+        "Anakin Skywalker y el apego",
+        "Yoda y la disciplina de la conciencia",
+        "El lado oscuro como metáfora de la pérdida de autonomía",
+        "¿Puede una persona virtuosa equivocarse?",
+        "La conciencia moral frente a la presión social",
+        "La virtud sin superioridad moral",
+        "La virtud en la vida cotidiana",
+        "La verdadera medida del conocimiento"
+      ],
+      "preview_html": "A lo largo de nuestra existencia podemos adquirir conocimientos, desarrollar habilidades, acumular experiencias y comprender progresivamente diferentes aspectos de la realidad. Podemos estudiar filosofía, investigar el universo, explorar tradiciones espirituales y cuestionar las creencias que anteriormente considerábamos verdaderas. Sin embargo, todo este conocimiento nos enfrenta con una pregunta que quizá resulte todavía más importante: <strong>aunque comprendamos la verdad, ¿cómo deberíamos vivir?</strong>",
+      "teaser_cut_html": "El conocimiento puede ampliar nuestra comprensión del mundo, pero no garantiza automáticamente que nuestras acciones sean justas. Una persona puede poseer una inteligencia extraordinaria y utilizarla para perjudicar a otros…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "A lo largo de nuestra existencia podemos adquirir conocimientos, desarrollar habilidades, acumular experiencias y comprender progresivamente diferentes aspectos de la realidad. Podemos estudiar filosofía, investigar el universo, explorar tradiciones espirituales y cuestionar las creencias que anteriormente considerábamos verdaderas. Sin embargo, todo este conocimiento nos enfrenta con una pregunta que quizá resulte todavía más importante: <strong>aunque comprendamos la verdad, ¿cómo deberíamos vivir?</strong>"
+        },
+        {
+          "type": "p_cut",
+          "html": "El conocimiento puede ampliar nuestra comprensión del mundo, pero no garantiza automáticamente que nuestras acciones sean justas. Una persona puede poseer una inteligencia extraordinaria y utilizarla para perjudicar a otros…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-19",
+      "kind": "chapter",
+      "number": 19,
+      "badge": "Capítulo 19",
+      "title": "Apatheia",
+      "subtitle": "Ideal estoico relacionado con liberarse del dominio de las pasiones desordenadas. No significa indiferencia emocional absoluta, sino evitar ser gobernados irracionalmente por nuestras perturbaciones.",
+      "summary": "Ideal estoico relacionado con liberarse del dominio de las pasiones desordenadas. No significa indiferencia emocional absoluta, sino evitar ser gobernados irracionalmente por nuestras perturbaciones.",
+      "summary_html": "Ideal estoico relacionado con liberarse del dominio de las pasiones desordenadas. No significa indiferencia emocional absoluta, sino evitar ser gobernados irracionalmente por nuestras perturbaciones.",
+      "unlocked": false,
+      "word_count": 4109,
+      "reading_minutes": 21,
+      "subheadings": [
+        "La serenidad frente al caos: romper las cadenas de la mente",
+        "La libertad interior desde el estoicismo",
+        "Apatheia no significa ausencia de amor",
+        "El budismo y la calma que permite comprender",
+        "La paciencia como forma de sabiduría",
+        "La caverna de Platón y las cadenas emocionales",
+        "El Demiurgo, los arcontes y la ilusión del control",
+        "La Matrix como metáfora de la realidad condicionada",
+        "El caos exterior y el orden interior",
+        "¿Por qué reaccionamos antes de pensar?",
+        "La serenidad frente a la manipulación",
+        "El riesgo de convertir la serenidad en superioridad",
+        "El silencio como espacio de claridad",
+        "Romper las cadenas sin abandonar la humanidad",
+        "¿Quién gobierna nuestra mente?",
+        "La claridad no es una verdad absoluta",
+        "La serenidad como camino de libertad"
+      ],
+      "preview_html": "Imaginemos a una persona que vive rodeada de estímulos constantes. Desde que despierta, recibe noticias, mensajes, opiniones, preocupaciones y exigencias. Algunas situaciones despiertan su entusiasmo; otras producen miedo, frustración o ira. Su atención se desplaza continuamente entre aquello que desea conseguir, aquello que teme perder y aquello que otras personas esperan de ella.",
+      "teaser_cut_html": "Aunque aparentemente dispone de libertad para decidir, gran parte de su jornada transcurre reaccionando de manera automática…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Imaginemos a una persona que vive rodeada de estímulos constantes. Desde que despierta, recibe noticias, mensajes, opiniones, preocupaciones y exigencias. Algunas situaciones despiertan su entusiasmo; otras producen miedo, frustración o ira. Su atención se desplaza continuamente entre aquello que desea conseguir, aquello que teme perder y aquello que otras personas esperan de ella."
+        },
+        {
+          "type": "p_cut",
+          "html": "Aunque aparentemente dispone de libertad para decidir, gran parte de su jornada transcurre reaccionando de manera automática…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-20",
+      "kind": "chapter",
+      "number": 20,
+      "badge": "Capítulo 20",
+      "title": "Memento mori",
+      "subtitle": "Recordatorio de la mortalidad como herramienta filosófica para reconsiderar prioridades, deseos, ego, tiempo y sentido de la existencia.",
+      "summary": "Recordatorio de la mortalidad como herramienta filosófica para reconsiderar prioridades, deseos, ego, tiempo y sentido de la existencia.",
+      "summary_html": "Recordatorio de la mortalidad como herramienta filosófica para reconsiderar prioridades, deseos, ego, tiempo y sentido de la existencia.",
+      "unlocked": false,
+      "word_count": 4257,
+      "reading_minutes": 22,
+      "subheadings": [
+        "La conciencia de la muerte, la humildad y el verdadero valor de nuestra existencia",
+        "La muerte desde el estoicismo",
+        "Un paseo por el cementerio: contemplar la finitud",
+        "Venimos sin nada y nos vamos sin nada",
+        "El ego frente a la mortalidad",
+        "El budismo y la contemplación de la impermanencia",
+        "La muerte desde el cristianismo",
+        "La muerte desde el gnosticismo",
+        "La muerte y la caverna de Platón",
+        "La muerte, el capitalismo y la acumulación",
+        "El tiempo como recurso irrecuperable",
+        "La muerte como maestra de humildad",
+        "¿Qué permanece después de nosotros?",
+        "Recordar la muerte sin dejar de amar la vida",
+        "La práctica cotidiana del memento mori",
+        "La última lección"
+      ],
+      "preview_html": "Existe una certeza que acompaña a todos los seres humanos desde el momento de su nacimiento: nuestra existencia es limitada. Podemos desconocer cuánto tiempo viviremos, qué experiencias nos esperan y cuáles serán las circunstancias de nuestro final. Podemos desarrollar conocimientos extraordinarios, acumular riquezas, construir imperios o dedicar nuestra vida a comprender los misterios del universo. Sin embargo, ninguna de estas posibilidades elimina completamente nuestra condición mortal.",
+      "teaser_cut_html": "La muerte representa una de las realidades más universales de la experiencia humana y, al mismo tiempo, una de aquellas sobre las cuales conocemos menos desde nuestra propia perspectiva. Podemos estudiar sus…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Existe una certeza que acompaña a todos los seres humanos desde el momento de su nacimiento: nuestra existencia es limitada. Podemos desconocer cuánto tiempo viviremos, qué experiencias nos esperan y cuáles serán las circunstancias de nuestro final. Podemos desarrollar conocimientos extraordinarios, acumular riquezas, construir imperios o dedicar nuestra vida a comprender los misterios del universo. Sin embargo, ninguna de estas posibilidades elimina completamente nuestra condición mortal."
+        },
+        {
+          "type": "p_cut",
+          "html": "La muerte representa una de las realidades más universales de la experiencia humana y, al mismo tiempo, una de aquellas sobre las cuales conocemos menos desde nuestra propia perspectiva. Podemos estudiar sus…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-21",
+      "kind": "chapter",
+      "number": 21,
+      "badge": "Capítulo 21",
+      "title": "Minimalismo",
+      "subtitle": "Reducción consciente de lo innecesario para concentrar recursos, atención y tiempo en aquello considerado verdaderamente valioso. Filosofía contemporánea, con antiguas formas de simplicidad y desapego consciente.",
+      "summary": "Reducción consciente de lo innecesario para concentrar recursos, atención y tiempo en aquello considerado verdaderamente valioso. Filosofía contemporánea, con antiguas formas de simplicidad y desapego consciente.",
+      "summary_html": "Reducción consciente de lo innecesario para concentrar recursos, atención y tiempo en aquello considerado verdaderamente valioso. Filosofía contemporánea, con antiguas formas de simplicidad y desapego consciente.",
+      "unlocked": false,
+      "word_count": 4709,
+      "reading_minutes": 24,
+      "subheadings": [
+        "La pobreza material, la riqueza espiritual y el arte de desprenderse de lo innecesario",
+        "La simplicidad como elección filosófica",
+        "La pobreza material y la riqueza espiritual",
+        "El acosmismo: cuando el problema no son los objetos, sino el cosmos",
+        "El Demiurgo y la reducción del mundo material",
+        "Marción y la separación entre el mundo y el Dios supremo",
+        "El mandeísmo y el camino del alma",
+        "Las vestiduras del alma: una metáfora del despojamiento",
+        "El ascetismo y el minimalismo: semejanzas y diferencias",
+        "El budismo y la riqueza de no depender",
+        "El estoicismo y la suficiencia",
+        "El minimalismo y el capitalismo contemporáneo",
+        "¿Cuánto necesitamos realmente?",
+        "El peligro de idealizar la pobreza",
+        "El despojamiento como camino de autoconocimiento",
+        "Menos objetos, más tiempo",
+        "El minimalismo como libertad, no como obligación",
+        "La verdadera riqueza"
+      ],
+      "preview_html": "Imaginemos a una persona que dedica gran parte de su existencia a adquirir objetos. Trabaja durante años para obtener una vivienda más grande, un vehículo más moderno, dispositivos tecnológicos y numerosos bienes que considera indispensables para alcanzar una vida satisfactoria.",
+      "teaser_cut_html": "Con el tiempo, sus posesiones aumentan…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Imaginemos a una persona que dedica gran parte de su existencia a adquirir objetos. Trabaja durante años para obtener una vivienda más grande, un vehículo más moderno, dispositivos tecnológicos y numerosos bienes que considera indispensables para alcanzar una vida satisfactoria."
+        },
+        {
+          "type": "p_cut",
+          "html": "Con el tiempo, sus posesiones aumentan…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-22",
+      "kind": "chapter",
+      "number": 22,
+      "badge": "Capítulo 22",
+      "title": "Conciencia",
+      "subtitle": "Experiencia subjetiva, identidad, percepción de uno mismo, de la realidad y de los demás, en relación con la mente y el cuerpo. Un espacio de diálogo filosófico y espiritual que acoge los aportes de la neurociencia contemporánea con serenidad, buscando tender puentes de comprensión sin imponer verdades absolutas.",
+      "summary": "Experiencia subjetiva, identidad, percepción de uno mismo, de la realidad y de los demás, en relación con la mente y el cuerpo. Un espacio de diálogo filosófico y espiritual que acoge los aportes de la neurociencia contemporánea con serenidad, buscando tender puentes de comprensión sin imponer verdades absolutas.",
+      "summary_html": "Experiencia subjetiva, identidad, percepción de uno mismo, de la realidad y de los demás, en relación con la mente y el cuerpo. Un espacio de diálogo filosófico y espiritual que acoge los aportes de la neurociencia contemporánea con serenidad, buscando tender puentes de comprensión sin imponer verdades absolutas.",
+      "unlocked": false,
+      "word_count": 4626,
+      "reading_minutes": 24,
+      "subheadings": [
+        "El misterio de existir, los niveles de percepción y el despertar espiritual",
+        "¿Qué entendemos por conciencia?",
+        "¿Existen niveles de conciencia?",
+        "La curiosidad: el comienzo de una transformación",
+        "El despertar de Siddhartha Gautama",
+        "Jesús y el bautismo en el Jordán",
+        "El agua como símbolo de transformación",
+        "Sofía: conocimiento, ruptura y restauración",
+        "¿Puede la caída convertirse en despertar?",
+        "La conciencia y la caverna de Platón",
+        "El cerebro y la experiencia consciente",
+        "¿Somos solamente nuestro cerebro?",
+        "La conciencia y el alma",
+        "¿Quién observa nuestros pensamientos?",
+        "La conciencia moral y el despertar ético",
+        "El peligro de creer que estamos despiertos",
+        "La conciencia y la inteligencia artificial",
+        "¿Puede existir un despertar sin religión?",
+        "La conciencia como camino, no como trofeo",
+        "El despertar y la responsabilidad de vivir"
+      ],
+      "preview_html": "Existe una experiencia tan cercana a nosotros que resulta extraordinariamente difícil observarla desde fuera: nuestra propia conciencia.",
+      "teaser_cut_html": "Desde el momento en que despertamos por la mañana hasta que volvemos a dormir, experimentamos sensaciones, pensamientos, emociones y recuerdos. Reconocemos rostros, interpretamos acontecimientos, sentimos el paso del…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Existe una experiencia tan cercana a nosotros que resulta extraordinariamente difícil observarla desde fuera: nuestra propia conciencia."
+        },
+        {
+          "type": "p_cut",
+          "html": "Desde el momento en que despertamos por la mañana hasta que volvemos a dormir, experimentamos sensaciones, pensamientos, emociones y recuerdos. Reconocemos rostros, interpretamos acontecimientos, sentimos el paso del…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-23",
+      "kind": "chapter",
+      "number": 23,
+      "badge": "Capítulo 23",
+      "title": "Trascendencia",
+      "subtitle": "Posibilidad de superar, atravesar o ir más allá de las limitaciones ordinarias del yo, la materia o la experiencia cotidiana. ¿La trascendencia es metafísica, psicológica, ambas?",
+      "summary": "Posibilidad de superar, atravesar o ir más allá de las limitaciones ordinarias del yo, la materia o la experiencia cotidiana. ¿La trascendencia es metafísica, psicológica, ambas?",
+      "summary_html": "Posibilidad de superar, atravesar o ir más allá de las limitaciones ordinarias del yo, la materia o la experiencia cotidiana. ¿La trascendencia es metafísica, psicológica, ambas?",
+      "unlocked": false,
+      "word_count": 4458,
+      "reading_minutes": 23,
+      "subheadings": [
+        "Más allá del yo, la materia y el tiempo: aquello que permanece cuando nosotros dejamos de estar",
+        "¿Qué entendemos por trascendencia?",
+        "El ser humano y el deseo de permanecer",
+        "Los hijos y la continuidad de la vida",
+        "Dos vidas, una nueva combinación",
+        "Sin nuestros recuerdos, pero con nuestras enseñanzas",
+        "¿Es necesario tener hijos para trascender?",
+        "El cristianismo y la trascendencia divina",
+        "El gnosticismo y el retorno hacia el Pléroma",
+        "Sofía y la trascendencia del error",
+        "El budismo y la superación del apego al yo",
+        "El hinduismo y la relación entre Atman y Brahman",
+        "La trascendencia del ego",
+        "La trascendencia y la conciencia",
+        "La trascendencia mediante nuestras obras",
+        "La paradoja de querer ser recordados",
+        "La trascendencia y la humildad",
+        "Trascender sin escapar del mundo",
+        "La herencia más profunda",
+        "Más allá de nosotros mismos"
+      ],
+      "preview_html": "Existe una pregunta que acompaña silenciosamente a la humanidad desde sus primeras reflexiones acerca de la vida y la muerte: <strong>¿es posible que algo de nuestra existencia trascienda los límites de nuestra propia vida?</strong>",
+      "teaser_cut_html": "Podemos contemplar el universo, estudiar sus leyes y reconocer que nuestra existencia representa apenas un instante dentro de una historia cósmica extraordinariamente extensa…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Existe una pregunta que acompaña silenciosamente a la humanidad desde sus primeras reflexiones acerca de la vida y la muerte: <strong>¿es posible que algo de nuestra existencia trascienda los límites de nuestra propia vida?</strong>"
+        },
+        {
+          "type": "p_cut",
+          "html": "Podemos contemplar el universo, estudiar sus leyes y reconocer que nuestra existencia representa apenas un instante dentro de una historia cósmica extraordinariamente extensa…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-24",
+      "kind": "chapter",
+      "number": 24,
+      "badge": "Capítulo 24",
+      "title": "Eones",
+      "subtitle": "Breve síntesis de estas emanaciones del Pléroma y su presencia en la cosmología gnóstica, integrando lo explorado en los anteriores capítulos.",
+      "summary": "Breve síntesis de estas emanaciones del Pléroma y su presencia en la cosmología gnóstica, integrando lo explorado en los anteriores capítulos.",
+      "summary_html": "Breve síntesis de estas emanaciones del Pléroma y su presencia en la cosmología gnóstica, integrando lo explorado en los anteriores capítulos.",
+      "unlocked": false,
+      "word_count": 4595,
+      "reading_minutes": 23,
+      "subheadings": [
+        "Las emanaciones divinas, los cielos y las moradas de la plenitud",
+        "¿Qué significa la palabra eón?",
+        "El Pléroma: una plenitud anterior al mundo inferior",
+        "El Apócrifo de Juan: el Espíritu invisible y Barbelo",
+        "Los cuatro grandes luminares",
+        "Los eones y el ser humano primordial",
+        "Los eones valentinianos: la plenitud de treinta",
+        "Sofía y la alteración del orden superior",
+        "Eones y arcontes: una diferencia fundamental",
+        "¿Son los eones cielos donde habitan los dioses?",
+        "Los cielos en la Biblia",
+        "La visión de Ezequiel",
+        "Isaías y la visión del trono divino",
+        "Pablo y el tercer cielo",
+        "El Apocalipsis y la corte celestial",
+        "Los siete cielos y las tradiciones judías antiguas",
+        "Las moradas divinas de otras tradiciones",
+        "¿Dónde termina el universo material?",
+        "La ascensión del alma",
+        "Los eones como lenguaje del conocimiento",
+        "La tentación de construir una cosmología definitiva",
+        "El valor simbólico de los cielos",
+        "Los eones y la humildad intelectual",
+        "La plenitud y el misterio"
+      ],
+      "preview_html": "Desde tiempos antiguos, el ser humano ha levantado la mirada hacia el cielo y se ha preguntado qué existe más allá de aquello que puede observar.",
+      "teaser_cut_html": "Las estrellas, los planetas y los movimientos del firmamento inspiraron narraciones acerca de dioses, espíritus, ángeles y realidades superiores. Algunas culturas imaginaron cielos organizados en diferentes regiones. Otras…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Desde tiempos antiguos, el ser humano ha levantado la mirada hacia el cielo y se ha preguntado qué existe más allá de aquello que puede observar."
+        },
+        {
+          "type": "p_cut",
+          "html": "Las estrellas, los planetas y los movimientos del firmamento inspiraron narraciones acerca de dioses, espíritus, ángeles y realidades superiores. Algunas culturas imaginaron cielos organizados en diferentes regiones. Otras…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-25",
+      "kind": "chapter",
+      "number": 25,
+      "badge": "Capítulo 25",
+      "title": "Sophia",
+      "subtitle": "Entidad fundamental para explicar ciertos relatos gnósticos sobre el origen de la imperfección cósmica, su caída y la relación entre Pléroma, Demiurgo y el mundo material.",
+      "summary": "Entidad fundamental para explicar ciertos relatos gnósticos sobre el origen de la imperfección cósmica, su caída y la relación entre Pléroma, Demiurgo y el mundo material.",
+      "summary_html": "Entidad fundamental para explicar ciertos relatos gnósticos sobre el origen de la imperfección cósmica, su caída y la relación entre Pléroma, Demiurgo y el mundo material.",
+      "unlocked": false,
+      "word_count": 4601,
+      "reading_minutes": 24,
+      "subheadings": [
+        "La sabiduría caída: entre la plenitud divina, el origen del cosmos y el misterio de su representación artística",
+        "La Sabiduría antes de los relatos gnósticos",
+        "Sophia dentro del Pléroma",
+        "El deseo de conocer lo incognoscible",
+        "El Apócrifo de Juan y el nacimiento de Yaldabaoth",
+        "Sophia, el Demiurgo y el mundo material",
+        "La paradoja de la Sabiduría que se equivoca",
+        "La restauración de Sophia",
+        "Sophia y la figura de la madre",
+        "Sophia y Eva: semejanzas y diferencias",
+        "Sophia y Eva: semejanzas y diferencias",
+        "Sophia y la serpiente",
+        "Sophia en el arte: representar lo invisible",
+        "La Sabiduría personificada",
+        "Hagia Sophia: la Santa Sabiduría",
+        "Sophia y el arte simbolista",
+        "La Sophia de la filosofía religiosa rusa",
+        "La caída de Sophia como imagen artística",
+        "Sophia y el Demiurgo en una misma composición",
+        "Sophia y la imagen de la madre cósmica",
+        "El arte como lenguaje de lo desconocido",
+        "Sophia y el conocimiento contemporáneo",
+        "La Sabiduría y la humildad",
+        "Sophia y la búsqueda de restauración",
+        "La última imagen de Sophia"
+      ],
+      "preview_html": "Existe una paradoja profundamente humana que atraviesa numerosas tradiciones filosóficas: cuanto más buscamos el conocimiento, más conscientes podemos volvernos de aquello que desconocemos.",
+      "teaser_cut_html": "La sabiduría suele relacionarse con la comprensión, la prudencia y la capacidad de reconocer la verdad…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Existe una paradoja profundamente humana que atraviesa numerosas tradiciones filosóficas: cuanto más buscamos el conocimiento, más conscientes podemos volvernos de aquello que desconocemos."
+        },
+        {
+          "type": "p_cut",
+          "html": "La sabiduría suele relacionarse con la comprensión, la prudencia y la capacidad de reconocer la verdad…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-26",
+      "kind": "chapter",
+      "number": 26,
+      "badge": "Capítulo 26",
+      "title": "Anātman / Anattā",
+      "subtitle": "Una filosofía puede hablar de una chispa espiritual que debe regresar a su origen, mientras que el budismo problematiza la existencia de un yo permanente. Esa contradicción será filosóficamente mucho más interesante que intentar hacer coincidir artificialmente ambas tradiciones.",
+      "summary": "Una filosofía puede hablar de una chispa espiritual que debe regresar a su origen, mientras que el budismo problematiza la existencia de un yo permanente. Esa contradicción será filosóficamente mucho más interesante que intentar hacer coincidir artificialmente ambas tradiciones.",
+      "summary_html": "Una filosofía puede hablar de una chispa espiritual que debe regresar a su origen, mientras que el budismo problematiza la existencia de un yo permanente. Esa contradicción será filosóficamente mucho más interesante que intentar hacer coincidir artificialmente ambas tradiciones.",
+      "unlocked": false,
+      "word_count": 3883,
+      "reading_minutes": 20,
+      "subheadings": [
+        "El no-yo, la ilusión de una identidad permanente y las cadenas del ego",
+        "¿Qué significa realmente no-yo?",
+        "El discurso sobre la característica del no-yo",
+        "El río y la identidad",
+        "El no-yo no significa ausencia de responsabilidad",
+        "El gnosticismo y la chispa espiritual",
+        "¿Descubrir el verdadero yo o comprender que no existe un yo permanente?",
+        "El ego: una palabra con muchos significados",
+        "El ego contemporáneo y la sociedad de la exposición",
+        "La ilusión de superioridad",
+        "El ego espiritual",
+        "El no-yo y la humildad",
+        "La identidad como construcción cambiante",
+        "El no-yo y la compasión",
+        "El no-yo y la muerte",
+        "La trascendencia sin un yo permanente",
+        "El no-yo no es nihilismo",
+        "La libertad de no tener que demostrar quiénes somos",
+        "El silencio después del ego",
+        "La paradoja final"
+      ],
+      "preview_html": "Existe una palabra que utilizamos constantemente y que, sin embargo, resulta extraordinariamente difícil de definir: <strong>yo</strong>.",
+      "teaser_cut_html": "Decimos que somos una determinada persona…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Existe una palabra que utilizamos constantemente y que, sin embargo, resulta extraordinariamente difícil de definir: <strong>yo</strong>."
+        },
+        {
+          "type": "p_cut",
+          "html": "Decimos que somos una determinada persona…"
+        }
+      ]
+    },
+    {
+      "id": "capitulo-27",
+      "kind": "chapter",
+      "number": 27,
+      "badge": "Capítulo 27",
+      "title": "Libre albedrío y determinismo",
+      "subtitle": "Porque tarde o temprano vamos a llegar a la pregunta: si estamos condicionados por cuerpo, sociedad, deseos, ignorancia, arcontes (entendidos literal o simbólicamente), causalidad y naturaleza, ¿qué significa realmente ser libre y qué es ser libre en realidad? Un final dotado de ser libres para escapar o ser partes de algo más grande que nosotros mismos.",
+      "summary": "Porque tarde o temprano vamos a llegar a la pregunta: si estamos condicionados por cuerpo, sociedad, deseos, ignorancia, arcontes (entendidos literal o simbólicamente), causalidad y naturaleza, ¿qué significa realmente ser libre y qué es ser libre en realidad? Un final dotado de ser libres para escapar o ser partes de algo más grande que nosotros mismos.",
+      "summary_html": "Porque tarde o temprano vamos a llegar a la pregunta: si estamos condicionados por cuerpo, sociedad, deseos, ignorancia, arcontes (entendidos literal o simbólicamente), causalidad y naturaleza, ¿qué significa realmente ser libre y qué es ser libre en realidad? Un final dotado de ser libres para escapar o ser partes de algo más grande que nosotros mismos.",
+      "unlocked": false,
+      "word_count": 7413,
+      "reading_minutes": 38,
+      "subheadings": [
+        "La libertad más allá del destino: entre las cadenas del cosmos, el despertar de la conciencia y la responsabilidad de existir",
+        "El problema de la libertad",
+        "Determinismo, fatalismo y causalidad",
+        "La libertad dentro de la prisión",
+        "Heimarméne: el destino cósmico",
+        "El cuerpo, el alma y el espíritu",
+        "El hombre psíquico y la elección ordinaria",
+        "Autexoúsios: aquello que depende de uno mismo",
+        "La verdadera libertad como eleuthería",
+        "La gnosis como ruptura del destino",
+        "La diferencia entre información y despertar",
+        "El Evangelio de la Verdad: despertar de la ignorancia",
+        "Hans Jonas y el extrañamiento del ser humano",
+        "La naturaleza, la ley y el peligro de la superioridad espiritual",
+        "La paradoja de la libertad pneumática",
+        "El estoicismo: libertad dentro de un universo ordenado",
+        "El budismo: libertad sin un yo permanente",
+        "El cristianismo: voluntad, gracia y responsabilidad",
+        "Compatibilismo e incompatibilismo",
+        "El cerebro y la decisión",
+        "La genética no es una sentencia",
+        "Los arcontes modernos: una metáfora sobre los condicionamientos",
+        "La nueva prisión de la atención",
+        "El minimalismo como ejercicio de autonomía",
+        "La libertad y la virtud",
+        "¿Somos responsables de aquello que no elegimos?",
+        "La libertad de reconocer nuestros límites",
+        "El destino y el existencialismo moderno",
+        "Sartre: la libertad como responsabilidad",
+        "Hans Jonas: de la libertad a la responsabilidad",
+        "La libertad y los demás",
+        "La transmisión de la libertad",
+        "¿Qué sería una libertad absoluta?",
+        "La libertad como proceso",
+        "¿Podemos escapar de todas nuestras cadenas?",
+        "La libertad de no saber"
+      ],
+      "preview_html": "Imaginemos a una persona frente a dos caminos.",
+      "teaser_cut_html": "El primero conduce hacia una vida conocida, organizada mediante costumbres, responsabilidades y expectativas que otras personas han contribuido a construir…",
+      "blocks": [
+        {
+          "type": "p",
+          "html": "Imaginemos a una persona frente a dos caminos."
+        },
+        {
+          "type": "p_cut",
+          "html": "El primero conduce hacia una vida conocida, organizada mediante costumbres, responsabilidades y expectativas que otras personas han contribuido a construir…"
+        }
+      ]
+    },
+    {
+      "id": "contraportada-y-creditos",
+      "kind": "backmatter",
+      "number": 28,
+      "badge": "Contraportada y Créditos",
+      "title": "Contraportada, Fuentes y Créditos de la Obra",
+      "subtitle": "GNOSTICISMO, la verdad más allá del velo · Una cosmovisión entre la materia y el espíritu",
+      "unlocked": true,
+      "word_count": 320,
+      "reading_minutes": 2,
+      "summary": "Texto oficial de contraportada, tradición documental consultada (Nag Hammadi, canon budista, fuentes clásicas) y créditos artísticos.",
+      "subheadings": [
+        "Texto de Contraportada",
+        "Tradiciones y Fuentes Documentales",
+        "Créditos de las Ilustraciones y Autoría"
+      ],
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Texto de Contraportada"
+        },
+        {
+          "type": "p",
+          "html": "<strong>¿Y si aquello que conocemos de la realidad fuera solamente una ilusión o una sola parte de lo que existe en realidad?</strong>"
+        },
+        {
+          "type": "p",
+          "html": "Desde tiempos inmemoriales, la humanidad ha buscado comprender el origen de su existencia, los misterios del universo y el sentido profundo de la conciencia. Esta obra invita al lector a recorrer las ideas del gnosticismo y establecer un diálogo abierto con el catarismo albigense, el budismo, el cristianismo, el estoicismo, la filosofía clásica, la ciencia contemporánea y la ciencia ficción."
+        },
+        {
+          "type": "p",
+          "html": "A través de preguntas sobre el conocimiento, la libertad, el sufrimiento y la trascendencia, el libro propone una exploración rigurosa y accesible que no pretende imponer respuestas cerradas, sino despertar preguntas y ofrecer nuevas perspectivas para mirar más allá del velo."
+        },
+        {
+          "type": "ad_slot",
+          "slot": "in-article-backmatter"
+        },
+        {
+          "type": "h2",
+          "text": "Tradiciones y Fuentes Documentales de la Obra Completa"
+        },
+        {
+          "type": "p",
+          "html": "La edición íntegra de 27 capítulos incluye referencias académicas y fuentes antiguas de la <strong>Biblioteca de Nag Hammadi</strong> (<em>Apócrifo de Juan</em>, <em>Evangelio de Tomás</em>, <em>Evangelio de la Verdad</em>, <em>Hipóstasis de los Arcontes</em>, <em>Pistis Sophia</em>), del <strong>canon budista</strong> (<em>Dhammapada</em>, <em>Anattalakkhaṇa Sutta</em>, <em>Satipaṭṭhāna Sutta</em>), del <strong>estoicismo clásico</strong> (Epicteto, Marco Aurelio, Séneca), del <strong>platonismo</strong> y de estudios históricos contemporáneos."
+        },
+        {
+          "type": "h2",
+          "text": "Créditos de las Ilustraciones y Derechos"
+        },
+        {
+          "type": "p",
+          "html": "Obra escrita por <strong>Martín Martínez García (Bluffer)</strong> · Año 2026. La concepción artística, selección simbólica y edición final de portada y contraportada fueron desarrolladas por el autor. Todos los derechos reservados."
+        }
+      ]
+    }
+  ]
+};
