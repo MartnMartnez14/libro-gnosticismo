@@ -1,15 +1,6 @@
 #!/usr/bin/env python3
 """Generador de datos para la web de lectura con publicidad:
 GNOSTICISMO, la verdad más allá del velo (Martín Martínez García · Bluffer, 2026).
-
-Lee EXCLUSIVAMENTE en modo de solo lectura desde:
-  /home/martinez-martin-garcia/Libro Gnostiscismo /
-y escribe los artefactos procesados dentro de este repositorio web:
-  static/data/book-data.json
-  static/data/book-data.js
-  static/img/portada-holo.jpg
-  static/img/portada-clasica.jpg
-  static/img/contraportada.jpg
 """
 
 from __future__ import annotations
@@ -25,7 +16,7 @@ from pathlib import Path
 from typing import Any
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-BOOK_SOURCE_DIR = Path("/home/martinez-martin-garcia/Libro Gnostiscismo ")
+BOOK_SOURCE_DIR = Path(os.environ.get("BOOK_SOURCE_DIR", str(Path.home() / "Libro Gnostiscismo ")))
 BOOK_MD_PATH = BOOK_SOURCE_DIR / "Libro GNOSTICISMO la verdad más allá del velo 2026  .md"
 
 COVER_HOLO_SRC = (

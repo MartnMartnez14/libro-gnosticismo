@@ -3,7 +3,7 @@ import unittest
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-BOOK_ORIGINAL_DIR = Path("/home/martinez-martin-garcia/Libro Gnostiscismo ")
+BOOK_ORIGINAL_DIR = Path.home() / "Libro Gnostiscismo "
 
 
 class TestGnosticBookAdSite(unittest.TestCase):

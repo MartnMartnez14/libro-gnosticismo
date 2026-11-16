@@ -49,7 +49,6 @@
         <a href="#preliminares" data-section-id="preliminares">Glosario (27 Caps.)</a>
         <a href="#edicion-completa">Edición Completa</a>
         <a href="#apoyar-autor">Apoyar</a>
-        <a href="#guia-adsense">Monetización AdSense</a>
         <a href="#privacidad">Privacidad</a>
       </div>
       <div class="nav-actions">
@@ -60,16 +59,6 @@
   </header>
 
   <main class="wrap">
-    <div class="promo-status-bar" role="region" aria-label="Estado del sistema de patrocinio">
-      <div class="promo-status-left">
-        <span id="ad-mode-badge" class="promo-status-pill is-house">Modo Patrocinio Propio (Pre-AdSense)</span>
-        <span>Lectura gratuita financiada con anuncios laterales e intercalados · Primeros <strong>3 capítulos completos abiertos</strong> para validar monetización.</span>
-      </div>
-      <div>
-        <button type="button" class="button subtle" id="toggle-ad-preview" aria-pressed="false">Inspeccionar medidas Google AdSense</button>
-      </div>
-    </div>
-
     <!-- HERO DEL LIBRO -->
     <section class="hero-section" aria-labelledby="book-main-title">
       <div class="hero-grid">
@@ -269,36 +258,7 @@
       </div>
     </section>
 
-    <!-- SECCIÓN: GUÍA RÁPIDA DE MONETIZACIÓN GOOGLE ADSENSE + GITHUB PAGES -->
-    <section class="info-section" id="guia-adsense" aria-labelledby="adsense-guide-heading">
-      <div class="section-card">
-        <p class="eyebrow">Configuración Técnica Lista para Producción</p>
-        <h2 id="adsense-guide-heading">Cómo conectar tu cuenta de Google AdSense en 3 pasos</h2>
-        <p>Esta página ya tiene programados los contenedores laterales (<code>300×600</code> y <code>300×250</code>), los banners horizontales (<code>728×90</code>), los anuncios intercalados <em>In-Article</em>, el archivo <code>ads.txt</code> y las políticas de privacidad obligatorias. Mientras tu cuenta se aprueba, muestra automáticamente tarjetas patrocinadas propias para no dejar huecos vacíos.</p>
-
-        <div class="steps-grid">
-          <div class="step-item">
-            <span class="step-num">Paso 1 · GitHub Pages + Dominio</span>
-            <h3>Publicá el repositorio</h3>
-            <p>Subí esta carpeta a un repositorio público en tu cuenta <code>MartnMartnez14</code> y activá <strong>GitHub Pages</strong>. <em>Tip clave para AdSense:</em> si Google AdSense te solicita un dominio propio en vez de <code>github.io</code>, podés crear gratis un subdominio en tu dominio actual (por ejemplo, <code>gnosticismo.checklistgato.com</code>) apuntando un registro <code>CNAME</code> a <code>martnmartnez14.github.io</code>.</p>
-          </div>
-
-          <div class="step-item">
-            <span class="step-num">Paso 2 · Activá tu ID ca-pub</span>
-            <h3>Pegá tu código en <code>sponsors.js</code> y <code>ads.txt</code></h3>
-            <p>Cuando Google AdSense te asigne tu ID de editor (<code>ca-pub-XXXXXXXXXXXXXXXX</code>), abrí <code>static/js/sponsors.js</code>, cambiá <code>adsenseEnabled: true</code> y pegá tu <code>clientId</code> junto con el número en el archivo <code>ads.txt</code> de la raíz.</p>
-          </div>
-
-          <div class="step-item">
-            <span class="step-num">Paso 3 · Escalá capítulos cuando quieras</span>
-            <h3>Habilitá más capítulos con un comando</h3>
-            <p>Hoy están abiertos los primeros 3 capítulos para medir tráfico y clics sin exponer todo el libro. Si más adelante querés abrir hasta el capítulo 5, 10 o los 27, solo ejecutás:<br><code>python3 scripts/build_book_data.py --max-chapters 5</code></p>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- SECCIÓN: POLÍTICA DE PRIVACIDAD, COOKIES Y DERECHOS DE AUTOR (REQUISITO ADSENSE) -->
+    <!-- SECCIÓN: POLÍTICA DE PRIVACIDAD, COOKIES Y DERECHOS DE AUTOR -->
     <section class="info-section" id="privacidad" aria-labelledby="privacy-heading">
       <div class="section-card">
         <p class="eyebrow">Transparencia Legal y Cumplimiento de Google AdSense</p>

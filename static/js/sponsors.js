@@ -78,15 +78,15 @@
       accent: "gold"
     },
     "banner-top": {
-      badge: "EDICIÓN CON PATROCINIO · GOOGLE ADSENSE",
-      format: "Horizontal · 728×90",
-      eyebrow: "Edición Digital Financiada con Publicidad",
-      title: "GNOSTICISMO, la verdad más allá del velo — Muestra de los 3 primeros capítulos",
+      badge: "EDICIÓN DIGITAL · VISTA PREVIA",
+      format: "Destacado",
+      eyebrow: "Lectura Gratuita de los Primeros 3 Capítulos",
+      title: "GNOSTICISMO, la verdad más allá del velo — Muestra de lectura online",
       body: "Explorá gratuitamente el Prefacio, el Glosario de los 27 capítulos y los Capítulos 1 al 3 completos. Pedí el PDF + eBook completo por USD 4,99 único pago o leelo en Wrixy.",
       ctaText: "Pedir PDF + eBook (USD 4,99) ↗",
       ctaHref: "https://wa.me/59892663680?text=Hola%20Mart%C3%ADn%2C%20quiero%20comprar%20el%20libro%20completo%20de%20Gnosticismo%20(PDF%20%2B%20eBook)%20por%20USD%204%2C99%20%C3%BAnico%20pago.",
-      secondaryText: "Configurar Google AdSense",
-      secondaryHref: "#guia-adsense",
+      secondaryText: "Ver opciones de la edición completa →",
+      secondaryHref: "#edicion-completa",
       accent: "gold"
     },
     "banner-bottom": {
