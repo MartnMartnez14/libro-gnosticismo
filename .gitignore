@@ -1,3 +1,5 @@
 __pycache__/
 *.pyc
 .DS_Store
+# Notas internas del proyecto: no se publican en el sitio
+roadmap.md

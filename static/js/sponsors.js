@@ -34,11 +34,11 @@
       format: "Vertical · 300×600",
       eyebrow: "PDF + eBook Completo · Único Pago",
       title: "Recibí el libro completo en PDF y eBook por USD 4,99",
-      body: "Comunicate personalmente conmigo por WhatsApp o correo y te envío los 27 capítulos completos en PDF + EPUB por tan solo 4,99 dólares (único pago). También en Wrixy y Amazon.",
+      body: "Comunicate personalmente conmigo por WhatsApp o correo y te envío los 27 capítulos completos en PDF + EPUB por tan solo 4,99 dólares (único pago). También en Amazon Kindle y Wrixy.",
       ctaText: "Pedir PDF + eBook por WhatsApp ↗",
       ctaHref: "https://wa.me/59892663680?text=Hola%20Mart%C3%ADn%2C%20quiero%20comprar%20el%20libro%20completo%20de%20Gnosticismo%20(PDF%20%2B%20eBook)%20por%20USD%204%2C99%20%C3%BAnico%20pago.",
-      secondaryText: "Ver también en Wrixy o escribir correo →",
-      secondaryHref: "#edicion-completa",
+      secondaryText: "Comprar en Amazon Kindle ↗",
+      secondaryHref: "https://www.amazon.es/dp/B0H4X4X14W",
       accent: "gold"
     },
     "rail-left-bottom": {
@@ -82,7 +82,7 @@
       format: "Destacado",
       eyebrow: "Lectura Gratuita de los Primeros 3 Capítulos",
       title: "GNOSTICISMO, la verdad más allá del velo — Muestra de lectura online",
-      body: "Explorá gratuitamente el Prefacio, el Glosario de los 27 capítulos y los Capítulos 1 al 3 completos. Pedí el PDF + eBook completo por USD 4,99 único pago o leelo en Wrixy.",
+      body: "Explorá gratuitamente el Prefacio, el Glosario de los 27 capítulos y los Capítulos 1 al 3 completos. La edición completa está en Amazon Kindle por USD 4,99 o pedila en PDF + eBook directo al autor.",
       ctaText: "Pedir PDF + eBook (USD 4,99) ↗",
       ctaHref: "https://wa.me/59892663680?text=Hola%20Mart%C3%ADn%2C%20quiero%20comprar%20el%20libro%20completo%20de%20Gnosticismo%20(PDF%20%2B%20eBook)%20por%20USD%204%2C99%20%C3%BAnico%20pago.",
       secondaryText: "Ver opciones de la edición completa →",
@@ -109,8 +109,8 @@
       body: "Escribime personalmente a mi WhatsApp (+598 92 663 680) o correo (mmartinez23bio@hotmail.com) y te envío la obra íntegra de 27 capítulos en PDF + eBook por tan solo USD 4,99 único pago.",
       ctaText: "Pedir directo al autor (USD 4,99) ↗",
       ctaHref: "https://wa.me/59892663680?text=Hola%20Mart%C3%ADn%2C%20quiero%20comprar%20el%20libro%20completo%20de%20Gnosticismo%20(PDF%20%2B%20eBook)%20por%20USD%204%2C99%20%C3%BAnico%20pago.",
-      secondaryText: "O leer en Wrixy ↗",
-      secondaryHref: "https://wrixy.app/book/qj2cnCIX",
+      secondaryText: "O comprar en Amazon Kindle ↗",
+      secondaryHref: "https://www.amazon.es/dp/B0H4X4X14W",
       accent: "gold"
     }
   };

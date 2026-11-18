@@ -314,12 +314,13 @@
           "<p>En esta web están abiertos gratis los <strong>primeros 3 capítulos completos</strong>. A partir del Capítulo 4 mostramos este avance cortado para que puedas conocer de qué trata cada parte antes de ir a la obra completa.</p>" +
           "<p><strong>Opción directa con el autor (USD 4,99 único pago):</strong> comunicate personalmente conmigo por WhatsApp o correo y te envío el libro completo en <strong>PDF + eBook (EPUB)</strong> todo por tan solo <strong>4,99 dólares (único pago)</strong>, o leelo en las plataformas oficiales:</p>" +
           '<div class="unlock-actions">' +
+          '<a class="button primary" href="https://www.amazon.es/dp/B0H4X4X14W" target="_blank" rel="noopener">Comprar en Amazon Kindle (USD 4,99) ↗</a>' +
           '<a class="button primary" href="https://wa.me/59892663680?text=Hola%20Mart%C3%ADn%2C%20quiero%20comprar%20el%20libro%20completo%20de%20Gnosticismo%20(PDF%20%2B%20eBook)%20por%20USD%204%2C99%20%C3%BAnico%20pago." target="_blank" rel="noopener">Pedir PDF + eBook por WhatsApp (USD 4,99) ↗</a>' +
           '<a class="button ghost" href="mailto:mmartinez23bio@hotmail.com?subject=Compra%20directa%20Libro%20Gnosticismo%20(PDF%20%2B%20eBook%20-%20USD%204,99)">Pedir por Correo ↗</a>' +
           '<a class="button subtle" href="https://wrixy.app/book/qj2cnCIX" target="_blank" rel="noopener">Ver en Wrixy ↗</a>' +
           '<a class="button subtle" href="#edicion-completa">Medios de pago (Prex / Mercado Pago / PayPal)</a>' +
           "</div>" +
-          '<p class="unlock-fine">Contacto directo: <strong>+598 92 663 680</strong> · <strong>mmartinez23bio@hotmail.com</strong> · También enviado a Amazon Kindle (KDP · USD 4,99).</p>' +
+          '<p class="unlock-fine">Contacto directo: <strong>+598 92 663 680</strong> · <strong>mmartinez23bio@hotmail.com</strong> · También en Amazon Kindle (KDP · USD 4,99 · ASIN B0H4X4X14W · <a href="https://www.amazon.com.mx/dp/B0H4X4X14W" target="_blank" rel="noopener">México</a>).</p>' +
           "</div>" +
           '<div class="in-article-promo-wrapper" data-slot-box="in-article" aria-label="Espacio destacado en vista previa"></div>';
       }

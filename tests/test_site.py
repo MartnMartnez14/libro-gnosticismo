@@ -13,6 +13,7 @@ class TestGnosticBookAdSite(unittest.TestCase):
         cls.css = (ROOT / "static" / "css" / "style.css").read_text(encoding="utf-8")
         cls.ads_js = (ROOT / "static" / "js" / "ads.js").read_text(encoding="utf-8")
         cls.reader_js = (ROOT / "static" / "js" / "reader.js").read_text(encoding="utf-8")
+        cls.sponsors_js = (ROOT / "static" / "js" / "sponsors.js").read_text(encoding="utf-8")
         cls.ads_txt = (ROOT / "ads.txt").read_text(encoding="utf-8")
         cls.book_data = json.loads(
             (ROOT / "static" / "data" / "book-data.json").read_text(encoding="utf-8")
@@ -105,6 +106,24 @@ class TestGnosticBookAdSite(unittest.TestCase):
         md_file = BOOK_ORIGINAL_DIR / "Libro GNOSTICISMO la verdad más allá del velo 2026  .md"
         self.assertTrue(md_file.is_file())
         self.assertEqual(md_file.stat().st_size, 3038180)
+
+    def test_09_amazon_kindle_storefront_links(self) -> None:
+        """Verifica que el libro enlace a la Tienda Kindle con el ASIN real en HTML, JS y datos."""
+        amazon_url = "https://www.amazon.es/dp/B0H4X4X14W"
+        asin = "B0H4X4X14W"
+
+        meta = self.book_data["meta"]
+        self.assertEqual(meta["amazon_url"], amazon_url)
+        self.assertEqual(meta["amazon_asin"], asin)
+        self.assertEqual(meta["amazon_url_mx"], "https://www.amazon.com.mx/dp/B0H4X4X14W")
+
+        self.assertIn(amazon_url, self.index_html)
+        self.assertIn("https://www.amazon.com.mx/dp/B0H4X4X14W", self.index_html)
+        self.assertIn(asin, self.index_html)
+        self.assertIn(amazon_url, self.reader_js)
+        self.assertIn(amazon_url, self.sponsors_js)
+        # Ya no debe afirmarse que el manuscrito está en revisión
+        self.assertNotIn("Manuscrito enviado y en revisión", self.index_html)
 
 
 if __name__ == "__main__":
