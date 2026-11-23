@@ -134,7 +134,7 @@ class TestGnosticBookAdSite(unittest.TestCase):
         self.assertTrue('<a href="#muestra-audio">' in self.index_html, "falta el enlace a la muestra en audio en el pie")
         self.assertEqual(self.index_html.count(playlist_url), 1)
         self.assertNotIn("si=", self.index_html, "no publicar el parámetro de tracking si=")
-        self.assertTrue("style.css?v=3" in self.index_html, "falta el bump de versión del CSS")
+        self.assertTrue("style.css?v=4" in self.index_html, "falta el bump de versión del CSS")
         self.assertTrue(".audio-sample" in self.css, "falta el bloque CSS de la franja de audio")
         self.assertTrue("YouTube" in self.index_html)
 

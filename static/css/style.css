@@ -414,6 +414,16 @@ img {
   text-align: center;
 }
 
+/* Que los saltos del menú no queden tapados por la barra fija superior */
+#inicio,
+#muestra-audio,
+#lector,
+#edicion-completa,
+#apoyar-autor,
+#privacidad {
+  scroll-margin-top: 96px;
+}
+
 /* Visualizador de Portada / Contraportada */
 .hero-visual {
   display: flex;
