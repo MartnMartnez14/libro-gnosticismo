@@ -21,6 +21,8 @@ A lo largo de **27 capítulos**, este libro invita a recorrer las grandes corrie
   - **Capítulo 3:** *El Pléroma* (completo).
 - **Avance de los Capítulos 4 al 27:**
   - Resumen temático, fragmento inicial de lectura y listado de apartados de cada capítulo.
+- **Muestra gratuita en audio (YouTube):**
+  - [Lista de reproducción del audiolibro](https://www.youtube.com/playlist?list=PLUDjPzsibOzQ): promocional, créditos, prefacio, agradecimientos y los capítulos 1, 2 y parte del 3 (8 audios).
 - **Herramientas de lectura:**
   - Modo oscuro y modo claro tipo pergamino, ajuste de tamaño de letra (`A−` / `A+`), cambio de tipografía (*Serif* / *Sans*) y buscador instantáneo de conceptos.
 

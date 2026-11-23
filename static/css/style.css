@@ -375,6 +375,45 @@ img {
   margin: 8px 0 0;
 }
 
+/* Muestra gratuita en audio (lista de YouTube) */
+.audio-sample {
+  display: grid;
+  grid-template-columns: minmax(0, 1.55fr) minmax(0, 1fr);
+  align-items: center;
+  gap: 22px;
+  margin: 34px 0 0;
+  padding: 24px 28px;
+  background:
+    linear-gradient(135deg, var(--purple-soft), transparent 62%),
+    var(--bg-card);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--purple);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+}
+
+.audio-sample h2 {
+  margin: 0 0 10px;
+  font-family: var(--font-serif);
+  font-size: 1.4rem;
+}
+
+.audio-sample p {
+  margin: 0;
+  color: var(--ink-muted);
+}
+
+.audio-sample-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.audio-sample-actions .button {
+  text-align: center;
+}
+
 /* Visualizador de Portada / Contraportada */
 .hero-visual {
   display: flex;
@@ -1280,6 +1319,12 @@ button.copy.is-copied {
 @media (max-width: 820px) {
   .hero-grid {
     grid-template-columns: 1fr;
+    padding: 20px;
+  }
+
+  .audio-sample {
+    grid-template-columns: 1fr;
+    gap: 16px;
     padding: 20px;
   }
 

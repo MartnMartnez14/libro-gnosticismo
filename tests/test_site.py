@@ -125,6 +125,19 @@ class TestGnosticBookAdSite(unittest.TestCase):
         # Ya no debe afirmarse que el manuscrito está en revisión
         self.assertNotIn("Manuscrito enviado y en revisión", self.index_html)
 
+    def test_10_audio_sample_playlist_link(self) -> None:
+        """Verifica la franja de muestra en audio con la lista de YouTube limpia y el bump de CSS."""
+        playlist_url = "https://www.youtube.com/playlist?list=PLUDjPzsibOzQ"
+
+        self.assertTrue(playlist_url in self.index_html, "falta la lista de YouTube en la portada")
+        self.assertTrue('id="muestra-audio"' in self.index_html, "falta el ancla de la franja de audio")
+        self.assertTrue('<a href="#muestra-audio">' in self.index_html, "falta el enlace a la muestra en audio en el pie")
+        self.assertEqual(self.index_html.count(playlist_url), 1)
+        self.assertNotIn("si=", self.index_html, "no publicar el parámetro de tracking si=")
+        self.assertTrue("style.css?v=3" in self.index_html, "falta el bump de versión del CSS")
+        self.assertTrue(".audio-sample" in self.css, "falta el bloque CSS de la franja de audio")
+        self.assertTrue("YouTube" in self.index_html)
+
 
 if __name__ == "__main__":
     unittest.main()
