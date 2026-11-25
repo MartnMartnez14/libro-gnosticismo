@@ -11,7 +11,7 @@ window.GNOSTIC_BOOK_DATA = {
     "unlocked_chapters": 3,
     "total_book_words": 91713,
     "unlocked_words": 4467,
-    "wrixy_url": "https://wrixy.app/book/qj2cnCIX",
+    "wrixy_url": "https://wrixy.app/book/NoXSw7tI",
     "portfolio_url": "https://martnmartnez14.github.io/bluffer-style-23/",
     "checklist_url": "https://checklistgato.com/",
     "github_url": "https://github.com/MartnMartnez14",

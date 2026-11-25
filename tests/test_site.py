@@ -77,7 +77,7 @@ class TestGnosticBookAdSite(unittest.TestCase):
         self.assertIn("adsbygoogle", self.ads_js)
 
     def test_05_author_links_and_copy_buttons(self) -> None:
-        self.assertIn("https://wrixy.app/book/qj2cnCIX", self.index_html)
+        self.assertIn("https://wrixy.app/book/NoXSw7tI", self.index_html)
         self.assertIn("https://ko-fi.com/martinmartinezgarcia", self.index_html)
         self.assertIn("https://www.paypal.com/paypalme/blufferedtwitch", self.index_html)
         self.assertIn('data-copy="35502"', self.index_html)

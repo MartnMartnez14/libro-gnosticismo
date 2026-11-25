@@ -345,7 +345,7 @@ def parse_book_markdown(md_path: Path, max_unlocked_chapters: int = 3) -> dict[s
             "unlocked_chapters": max_unlocked_chapters,
             "total_book_words": total_book_words,
             "unlocked_words": unlocked_words,
-            "wrixy_url": "https://wrixy.app/book/qj2cnCIX",
+            "wrixy_url": "https://wrixy.app/book/NoXSw7tI",
             "portfolio_url": "https://martnmartnez14.github.io/bluffer-style-23/",
             "checklist_url": "https://checklistgato.com/",
             "github_url": "https://github.com/MartnMartnez14",

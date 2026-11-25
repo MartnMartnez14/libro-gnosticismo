@@ -106,7 +106,7 @@
             ? isDone
               ? '<span class="toc-status is-read" title="Capítulo leído">✓</span>'
               : '<span class="toc-status is-open" title="Disponible gratis con publicidad">Abierto</span>'
-            : '<span class="toc-status is-locked" title="Vista previa · Completo en Wrixy / Amazon">Vista previa</span>';
+            : '<span class="toc-status is-locked" title="Vista previa · Completo en Amazon Kindle">Vista previa</span>';
 
           var labelTitle =
             sec.kind === "chapter"
@@ -317,7 +317,7 @@
           '<a class="button primary" href="https://www.amazon.es/dp/B0H4X4X14W" target="_blank" rel="noopener">Comprar en Amazon Kindle (USD 4,99) ↗</a>' +
           '<a class="button primary" href="https://wa.me/59892663680?text=Hola%20Mart%C3%ADn%2C%20quiero%20comprar%20el%20libro%20completo%20de%20Gnosticismo%20(PDF%20%2B%20eBook)%20por%20USD%204%2C99%20%C3%BAnico%20pago." target="_blank" rel="noopener">Pedir PDF + eBook por WhatsApp (USD 4,99) ↗</a>' +
           '<a class="button ghost" href="mailto:mmartinez23bio@hotmail.com?subject=Compra%20directa%20Libro%20Gnosticismo%20(PDF%20%2B%20eBook%20-%20USD%204,99)">Pedir por Correo ↗</a>' +
-          '<a class="button subtle" href="https://wrixy.app/book/qj2cnCIX" target="_blank" rel="noopener">Ver en Wrixy ↗</a>' +
+          '<a class="button subtle" href="https://wrixy.app/book/NoXSw7tI" target="_blank" rel="noopener">Ver los 3 primeros capítulos en Wrixy ↗</a>' +
           '<a class="button subtle" href="#edicion-completa">Medios de pago (Prex / Mercado Pago / PayPal)</a>' +
           "</div>" +
           '<p class="unlock-fine">Contacto directo: <strong>+598 92 663 680</strong> · <strong>mmartinez23bio@hotmail.com</strong> · También en Amazon Kindle (KDP · USD 4,99 · ASIN B0H4X4X14W · <a href="https://www.amazon.com.mx/dp/B0H4X4X14W" target="_blank" rel="noopener">México</a>).</p>' +
